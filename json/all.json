@@ -1,0 +1,4858 @@
+[
+  {
+    "NO": 2,
+    "NAME": "Kartik Agrawal",
+    "ENROLLMENT_NO": "BT24ECE036",
+    "CHEM_SEM": 9.27,
+    "PHY_SEM": 9.9,
+    "CGPA": 9.58
+  },
+  {
+    "NO": 3,
+    "NAME": "Waghmare Jayesh Sanjay",
+    "ENROLLMENT_NO": "BT24ECE060",
+    "CHEM_SEM": 9.19,
+    "PHY_SEM": 9.95,
+    "CGPA": 9.56
+  },
+  {
+    "NO": 4,
+    "NAME": "Tipare Rugved Satish",
+    "ENROLLMENT_NO": "BT24ECE011",
+    "CHEM_SEM": 9.26,
+    "PHY_SEM": 9.81,
+    "CGPA": 9.53
+  },
+  {
+    "NO": 5,
+    "NAME": "Mehta Tvisha Timir",
+    "ENROLLMENT_NO": "BT24ECE010",
+    "CHEM_SEM": 9.09,
+    "PHY_SEM": 9.76,
+    "CGPA": 9.42
+  },
+  {
+    "NO": 6,
+    "NAME": "Srijan  Kashyap",
+    "ENROLLMENT_NO": "BT24MEC106",
+    "CHEM_SEM": 9.28,
+    "PHY_SEM": 9.43,
+    "CGPA": 9.35
+  },
+  {
+    "NO": 7,
+    "NAME": "Taha  Murtaza  Motorwala",
+    "ENROLLMENT_NO": "BT24CSE118",
+    "CHEM_SEM": 9.4,
+    "PHY_SEM": 9.19,
+    "CGPA": 9.3
+  },
+  {
+    "NO": 8,
+    "NAME": "Pandey  Arvind  Chandraprakash",
+    "ENROLLMENT_NO": "BT24CIV024",
+    "CHEM_SEM": 9,
+    "PHY_SEM": 9.55,
+    "CGPA": 9.28
+  },
+  {
+    "NO": 9,
+    "NAME": "Tamada  Eashan",
+    "ENROLLMENT_NO": "BT24CME015",
+    "CHEM_SEM": 9.1,
+    "PHY_SEM": 9.41,
+    "CGPA": 9.26
+  },
+  {
+    "NO": 10,
+    "NAME": "Rishabh  Kumar",
+    "ENROLLMENT_NO": "BT24CIV069",
+    "CHEM_SEM": 9.44,
+    "PHY_SEM": 9.09,
+    "CGPA": 9.26
+  },
+  {
+    "NO": 11,
+    "NAME": "Bakkareddygari  Sharath  Chandra  R",
+    "ENROLLMENT_NO": "BT24EEE020",
+    "CHEM_SEM": 8.64,
+    "PHY_SEM": 9.81,
+    "CGPA": 9.21
+  },
+  {
+    "NO": 12,
+    "NAME": "Pakeeru  Prathibha  Devi",
+    "ENROLLMENT_NO": "BT24CSE037",
+    "CHEM_SEM": 8.82,
+    "PHY_SEM": 9.62,
+    "CGPA": 9.21
+  },
+  {
+    "NO": 13,
+    "NAME": "Nimje Neenad Rajiv",
+    "ENROLLMENT_NO": "BT24ECE023",
+    "CHEM_SEM": 8.68,
+    "PHY_SEM": 9.76,
+    "CGPA": 9.21
+  },
+  {
+    "NO": 14,
+    "NAME": "Mankame  Aum  Prasad",
+    "ENROLLMENT_NO": "BT24MME015",
+    "CHEM_SEM": 9.53,
+    "PHY_SEM": 8.86,
+    "CGPA": 9.19
+  },
+  {
+    "NO": 15,
+    "NAME": "Nelli Haritha",
+    "ENROLLMENT_NO": "BT24ECE098",
+    "CHEM_SEM": 8.73,
+    "PHY_SEM": 9.67,
+    "CGPA": 9.19
+  },
+  {
+    "NO": 16,
+    "NAME": "Omraj  Ambadas  Mahandule",
+    "ENROLLMENT_NO": "BT24MME007",
+    "CHEM_SEM": 9.38,
+    "PHY_SEM": 8.95,
+    "CGPA": 9.16
+  },
+  {
+    "NO": 17,
+    "NAME": "Edunoori  Gowtham  Reddy",
+    "ENROLLMENT_NO": "BT24CSE107",
+    "CHEM_SEM": 8.73,
+    "PHY_SEM": 9.57,
+    "CGPA": 9.14
+  },
+  {
+    "NO": 18,
+    "NAME": "Ishan Shashank Duraphe",
+    "ENROLLMENT_NO": "BT24ECE040",
+    "CHEM_SEM": 8.96,
+    "PHY_SEM": 9.33,
+    "CGPA": 9.14
+  },
+  {
+    "NO": 19,
+    "NAME": "Priyanka  Sharma",
+    "ENROLLMENT_NO": "BT24MME051",
+    "CHEM_SEM": 9.48,
+    "PHY_SEM": 8.77,
+    "CGPA": 9.12
+  },
+  {
+    "NO": 20,
+    "NAME": "Soumik  Das",
+    "ENROLLMENT_NO": "BT24CSE019",
+    "CHEM_SEM": 8.68,
+    "PHY_SEM": 9.52,
+    "CGPA": 9.09
+  },
+  {
+    "NO": 21,
+    "NAME": "Shrijit Rameshwar Warwatkar",
+    "ENROLLMENT_NO": "BT24ECE071",
+    "CHEM_SEM": 8.9,
+    "PHY_SEM": 9.29,
+    "CGPA": 9.09
+  },
+  {
+    "NO": 22,
+    "NAME": "Snehitha  Deshpande",
+    "ENROLLMENT_NO": "BT24CME028",
+    "CHEM_SEM": 9,
+    "PHY_SEM": 9.14,
+    "CGPA": 9.07
+  },
+  {
+    "NO": 23,
+    "NAME": "Darshan  Kharabe",
+    "ENROLLMENT_NO": "BT24MME012",
+    "CHEM_SEM": 9.53,
+    "PHY_SEM": 8.59,
+    "CGPA": 9.05
+  },
+  {
+    "NO": 24,
+    "NAME": "Aryan  Savitru  Pophali",
+    "ENROLLMENT_NO": "BT24MME019",
+    "CHEM_SEM": 9.34,
+    "PHY_SEM": 8.77,
+    "CGPA": 9.05
+  },
+  {
+    "NO": 25,
+    "NAME": "Nidhi  Soni",
+    "ENROLLMENT_NO": "BT24CME055",
+    "CHEM_SEM": 9.09,
+    "PHY_SEM": 8.77,
+    "CGPA": 8.93
+  },
+  {
+    "NO": 26,
+    "NAME": "Adhe  Kuldeep  Ganesh",
+    "ENROLLMENT_NO": "BT24CSE043",
+    "CHEM_SEM": 9.04,
+    "PHY_SEM": 8.81,
+    "CGPA": 8.93
+  },
+  {
+    "NO": 27,
+    "NAME": "Vedhas Soman",
+    "ENROLLMENT_NO": "BT24ECE059",
+    "CHEM_SEM": 8.86,
+    "PHY_SEM": 9,
+    "CGPA": 8.93
+  },
+  {
+    "NO": 28,
+    "NAME": "Deepak  Rajpoot",
+    "ENROLLMENT_NO": "BT24CME089",
+    "CHEM_SEM": 8.63,
+    "PHY_SEM": 9.18,
+    "CGPA": 8.91
+  },
+  {
+    "NO": 29,
+    "NAME": "Swarn  Rajankar",
+    "ENROLLMENT_NO": "BT24MME036",
+    "CHEM_SEM": 9.1,
+    "PHY_SEM": 8.73,
+    "CGPA": 8.91
+  },
+  {
+    "NO": 30,
+    "NAME": "Urade  Tanmay  Sudhakar",
+    "ENROLLMENT_NO": "BT24CSE106",
+    "CHEM_SEM": 8.58,
+    "PHY_SEM": 9.19,
+    "CGPA": 8.88
+  },
+  {
+    "NO": 31,
+    "NAME": "Hurne Omkar Vinay",
+    "ENROLLMENT_NO": "BT24ECE074",
+    "CHEM_SEM": 8.45,
+    "PHY_SEM": 9.33,
+    "CGPA": 8.88
+  },
+  {
+    "NO": 32,
+    "NAME": "Jadhav  Harshal  Yogesh",
+    "ENROLLMENT_NO": "BT24CSE016",
+    "CHEM_SEM": 8.36,
+    "PHY_SEM": 9.38,
+    "CGPA": 8.86
+  },
+  {
+    "NO": 33,
+    "NAME": "Dhale  Dikshant  Avinash",
+    "ENROLLMENT_NO": "BT24CSE021",
+    "CHEM_SEM": 8.5,
+    "PHY_SEM": 9.24,
+    "CGPA": 8.86
+  },
+  {
+    "NO": 34,
+    "NAME": "Sanvi  Yanagandula",
+    "ENROLLMENT_NO": "BT24CSE061",
+    "CHEM_SEM": 8.86,
+    "PHY_SEM": 8.86,
+    "CGPA": 8.86
+  },
+  {
+    "NO": 35,
+    "NAME": "Bhaavesh  Vivek  Shah",
+    "ENROLLMENT_NO": "BT24EEE065",
+    "CHEM_SEM": 8.6,
+    "PHY_SEM": 9.1,
+    "CGPA": 8.84
+  },
+  {
+    "NO": 36,
+    "NAME": "Gandhi  Devansh  Hiren",
+    "ENROLLMENT_NO": "BT24EEE066",
+    "CHEM_SEM": 9.1,
+    "PHY_SEM": 8.57,
+    "CGPA": 8.84
+  },
+  {
+    "NO": 37,
+    "NAME": "Anshul  Vikas  Jain",
+    "ENROLLMENT_NO": "BT24CSE008",
+    "CHEM_SEM": 8.55,
+    "PHY_SEM": 9.14,
+    "CGPA": 8.84
+  },
+  {
+    "NO": 38,
+    "NAME": "Įaksh  Sunil  Kachure",
+    "ENROLLMENT_NO": "BT24CSE051",
+    "CHEM_SEM": 8.6,
+    "PHY_SEM": 9.1,
+    "CGPA": 8.84
+  },
+  {
+    "NO": 39,
+    "NAME": "Ratcha  Vijay  Shekar",
+    "ENROLLMENT_NO": "BT24CSE119",
+    "CHEM_SEM": 8.69,
+    "PHY_SEM": 9,
+    "CGPA": 8.84
+  },
+  {
+    "NO": 40,
+    "NAME": "Aryan  Gupta",
+    "ENROLLMENT_NO": "BT24CME052",
+    "CHEM_SEM": 8.52,
+    "PHY_SEM": 9.09,
+    "CGPA": 8.81
+  },
+  {
+    "NO": 41,
+    "NAME": "Yawalkar  Nakul  Rajesh",
+    "ENROLLMENT_NO": "BT24CSE025",
+    "CHEM_SEM": 8.36,
+    "PHY_SEM": 9.29,
+    "CGPA": 8.81
+  },
+  {
+    "NO": 42,
+    "NAME": "Ratnaparkhi  Anish  Amit",
+    "ENROLLMENT_NO": "BT24EEE055",
+    "CHEM_SEM": 8.54,
+    "PHY_SEM": 9.05,
+    "CGPA": 8.79
+  },
+  {
+    "NO": 43,
+    "NAME": "Shetty  Greeshma  Subhashchandra",
+    "ENROLLMENT_NO": "BT24CSE026",
+    "CHEM_SEM": 8.59,
+    "PHY_SEM": 9,
+    "CGPA": 8.79
+  },
+  {
+    "NO": 44,
+    "NAME": "Mrudula  Manoj  Patil",
+    "ENROLLMENT_NO": "BT24MEC107",
+    "CHEM_SEM": 8.49,
+    "PHY_SEM": 9,
+    "CGPA": 8.74
+  },
+  {
+    "NO": 45,
+    "NAME": "Wagh Arjun Shrikrishna",
+    "ENROLLMENT_NO": "BT24ECE025",
+    "CHEM_SEM": 7.76,
+    "PHY_SEM": 9.76,
+    "CGPA": 8.74
+  },
+  {
+    "NO": 46,
+    "NAME": "Įucky  Gidwani",
+    "ENROLLMENT_NO": "BT24CSE041",
+    "CHEM_SEM": 8.45,
+    "PHY_SEM": 9.05,
+    "CGPA": 8.74
+  },
+  {
+    "NO": 47,
+    "NAME": "Goyal  Aaditya  Pankaj",
+    "ENROLLMENT_NO": "BT24CSE096",
+    "CHEM_SEM": 8.81,
+    "PHY_SEM": 8.67,
+    "CGPA": 8.74
+  },
+  {
+    "NO": 48,
+    "NAME": "Arvikar  Shrivallabh  Yashodhan",
+    "ENROLLMENT_NO": "BT24EEE018",
+    "CHEM_SEM": 8.18,
+    "PHY_SEM": 9.29,
+    "CGPA": 8.72
+  },
+  {
+    "NO": 49,
+    "NAME": "Mane  Diksha  Dattajirao",
+    "ENROLLMENT_NO": "BT24CME001",
+    "CHEM_SEM": 8.62,
+    "PHY_SEM": 8.82,
+    "CGPA": 8.72
+  },
+  {
+    "NO": 50,
+    "NAME": "Kataria Viren Ravi",
+    "ENROLLMENT_NO": "BT24ECE028",
+    "CHEM_SEM": 8.18,
+    "PHY_SEM": 9.29,
+    "CGPA": 8.72
+  },
+  {
+    "NO": 51,
+    "NAME": "Gaddam  Shreyi  Hiranmai",
+    "ENROLLMENT_NO": "BT24CSE082",
+    "CHEM_SEM": 8.32,
+    "PHY_SEM": 9.14,
+    "CGPA": 8.72
+  },
+  {
+    "NO": 52,
+    "NAME": "Toodi  Sai  Vaibhavi",
+    "ENROLLMENT_NO": "BT24CSE007",
+    "CHEM_SEM": 8.59,
+    "PHY_SEM": 8.86,
+    "CGPA": 8.72
+  },
+  {
+    "NO": 53,
+    "NAME": "Richa  Amit  Anajwala",
+    "ENROLLMENT_NO": "BT24CME080",
+    "CHEM_SEM": 8.77,
+    "PHY_SEM": 8.64,
+    "CGPA": 8.7
+  },
+  {
+    "NO": 54,
+    "NAME": "Shaik  Muzammil  Sultan",
+    "ENROLLMENT_NO": "BT24CSE071",
+    "CHEM_SEM": 8.78,
+    "PHY_SEM": 8.62,
+    "CGPA": 8.7
+  },
+  {
+    "NO": 55,
+    "NAME": "Puvvada Rakesh",
+    "ENROLLMENT_NO": "BT24ECE094",
+    "CHEM_SEM": 8.17,
+    "PHY_SEM": 9.19,
+    "CGPA": 8.67
+  },
+  {
+    "NO": 56,
+    "NAME": "Karki Aman Bhagat Singh",
+    "ENROLLMENT_NO": "BT24ECE070",
+    "CHEM_SEM": 8.63,
+    "PHY_SEM": 8.71,
+    "CGPA": 8.67
+  },
+  {
+    "NO": 57,
+    "NAME": "Bais  Anjali  Yogeshsingh",
+    "ENROLLMENT_NO": "BT24CME064",
+    "CHEM_SEM": 8.33,
+    "PHY_SEM": 8.95,
+    "CGPA": 8.65
+  },
+  {
+    "NO": 58,
+    "NAME": "Kandale Kunal Sachin",
+    "ENROLLMENT_NO": "BT24ECE013",
+    "CHEM_SEM": 8.59,
+    "PHY_SEM": 8.71,
+    "CGPA": 8.65
+  },
+  {
+    "NO": 59,
+    "NAME": "Chinmay  Sachin  Sabharwal",
+    "ENROLLMENT_NO": "BT24CSE075",
+    "CHEM_SEM": 9.04,
+    "PHY_SEM": 8.24,
+    "CGPA": 8.65
+  },
+  {
+    "NO": 60,
+    "NAME": "Vuddanti  Bhanu  Venkata  Sai  Pravee",
+    "ENROLLMENT_NO": "BT24MME020",
+    "CHEM_SEM": 8.77,
+    "PHY_SEM": 8.5,
+    "CGPA": 8.63
+  },
+  {
+    "NO": 61,
+    "NAME": "Chaudhary  Mahendra  Budhiram",
+    "ENROLLMENT_NO": "BT24MME073",
+    "CHEM_SEM": 8.86,
+    "PHY_SEM": 8.41,
+    "CGPA": 8.63
+  },
+  {
+    "NO": 62,
+    "NAME": "Deshpande  Yuvraj  Parag",
+    "ENROLLMENT_NO": "BT24CSE030",
+    "CHEM_SEM": 8.1,
+    "PHY_SEM": 9.19,
+    "CGPA": 8.63
+  },
+  {
+    "NO": 63,
+    "NAME": "Adarsh  Appasaheb  Kale",
+    "ENROLLMENT_NO": "BT24EEE051",
+    "CHEM_SEM": 7.76,
+    "PHY_SEM": 9.48,
+    "CGPA": 8.6
+  },
+  {
+    "NO": 64,
+    "NAME": "Hitansh  Heda",
+    "ENROLLMENT_NO": "BT24EEE076",
+    "CHEM_SEM": 8.54,
+    "PHY_SEM": 8.67,
+    "CGPA": 8.6
+  },
+  {
+    "NO": 65,
+    "NAME": "Siddarth Patni",
+    "ENROLLMENT_NO": "BT24ECE089",
+    "CHEM_SEM": 8.13,
+    "PHY_SEM": 9.1,
+    "CGPA": 8.6
+  },
+  {
+    "NO": 66,
+    "NAME": "Patlolla  Bhavani  Prasad",
+    "ENROLLMENT_NO": "BT24CSE060",
+    "CHEM_SEM": 8.45,
+    "PHY_SEM": 8.76,
+    "CGPA": 8.6
+  },
+  {
+    "NO": 67,
+    "NAME": "Vishvesh  Singh",
+    "ENROLLMENT_NO": "BT24MME072",
+    "CHEM_SEM": 8.85,
+    "PHY_SEM": 8.32,
+    "CGPA": 8.58
+  },
+  {
+    "NO": 68,
+    "NAME": "Phatak  Vaibhav  Narendra",
+    "ENROLLMENT_NO": "BT24MME017",
+    "CHEM_SEM": 8.47,
+    "PHY_SEM": 8.68,
+    "CGPA": 8.58
+  },
+  {
+    "NO": 69,
+    "NAME": "Sarabu  Eshwar  Saketh",
+    "ENROLLMENT_NO": "BT24EEE008",
+    "CHEM_SEM": 8.05,
+    "PHY_SEM": 9.1,
+    "CGPA": 8.56
+  },
+  {
+    "NO": 70,
+    "NAME": "Aradhya",
+    "ENROLLMENT_NO": "BT24CME039",
+    "CHEM_SEM": 8.72,
+    "PHY_SEM": 8.41,
+    "CGPA": 8.56
+  },
+  {
+    "NO": 71,
+    "NAME": "Arnav  Gupta",
+    "ENROLLMENT_NO": "BT24CME013",
+    "CHEM_SEM": 8.91,
+    "PHY_SEM": 8.23,
+    "CGPA": 8.56
+  },
+  {
+    "NO": 72,
+    "NAME": "Yashraj Ajit Kale",
+    "ENROLLMENT_NO": "BT24ECE037",
+    "CHEM_SEM": 8.55,
+    "PHY_SEM": 8.57,
+    "CGPA": 8.56
+  },
+  {
+    "NO": 73,
+    "NAME": "Bhogil  Onkar  Manoranjan",
+    "ENROLLMENT_NO": "BT24CSE103",
+    "CHEM_SEM": 8.46,
+    "PHY_SEM": 8.67,
+    "CGPA": 8.56
+  },
+  {
+    "NO": 74,
+    "NAME": "Harsh  Kumar  Gupta",
+    "ENROLLMENT_NO": "BT24CME093",
+    "CHEM_SEM": 8.75,
+    "PHY_SEM": 8.32,
+    "CGPA": 8.53
+  },
+  {
+    "NO": 75,
+    "NAME": "Gosavi Eshan Amol",
+    "ENROLLMENT_NO": "BT24ECE015",
+    "CHEM_SEM": 8.63,
+    "PHY_SEM": 8.43,
+    "CGPA": 8.53
+  },
+  {
+    "NO": 76,
+    "NAME": "Mansi  Mukesh  Gattani",
+    "ENROLLMENT_NO": "BT24CSE066",
+    "CHEM_SEM": 8.4,
+    "PHY_SEM": 8.67,
+    "CGPA": 8.53
+  },
+  {
+    "NO": 77,
+    "NAME": "Kadam  Priya  Abarao",
+    "ENROLLMENT_NO": "BT24CIV032",
+    "CHEM_SEM": 8.47,
+    "PHY_SEM": 8.55,
+    "CGPA": 8.51
+  },
+  {
+    "NO": 78,
+    "NAME": "Rakesh  Joshi",
+    "ENROLLMENT_NO": "BT24EEE036",
+    "CHEM_SEM": 8,
+    "PHY_SEM": 9.05,
+    "CGPA": 8.51
+  },
+  {
+    "NO": 79,
+    "NAME": "Piyush Thote",
+    "ENROLLMENT_NO": "BT24ECE101",
+    "CHEM_SEM": 8.41,
+    "PHY_SEM": 8.62,
+    "CGPA": 8.51
+  },
+  {
+    "NO": 80,
+    "NAME": "Veera  Venkata  Surya  Varaprasad  P",
+    "ENROLLMENT_NO": "BT24EEE081",
+    "CHEM_SEM": 8.05,
+    "PHY_SEM": 8.95,
+    "CGPA": 8.49
+  },
+  {
+    "NO": 81,
+    "NAME": "Sarode Prathmesh Prashant",
+    "ENROLLMENT_NO": "BT24ECE017",
+    "CHEM_SEM": 8.64,
+    "PHY_SEM": 8.33,
+    "CGPA": 8.49
+  },
+  {
+    "NO": 82,
+    "NAME": "Raj  Įalit  Patil",
+    "ENROLLMENT_NO": "BT24CSE097",
+    "CHEM_SEM": 8.09,
+    "PHY_SEM": 8.9,
+    "CGPA": 8.49
+  },
+  {
+    "NO": 83,
+    "NAME": "Aman  Gupta",
+    "ENROLLMENT_NO": "BT24CSE052",
+    "CHEM_SEM": 8.69,
+    "PHY_SEM": 8.29,
+    "CGPA": 8.49
+  },
+  {
+    "NO": 84,
+    "NAME": "Angad  Shukla",
+    "ENROLLMENT_NO": "BT24MEC066",
+    "CHEM_SEM": 8.37,
+    "PHY_SEM": 8.57,
+    "CGPA": 8.47
+  },
+  {
+    "NO": 85,
+    "NAME": "Deshmukh  Pranav  Anil",
+    "ENROLLMENT_NO": "BT24MME099",
+    "CHEM_SEM": 8.63,
+    "PHY_SEM": 8.32,
+    "CGPA": 8.47
+  },
+  {
+    "NO": 86,
+    "NAME": "Khatke  Devendra  Suhas",
+    "ENROLLMENT_NO": "BT24CSE050",
+    "CHEM_SEM": 8.65,
+    "PHY_SEM": 8.29,
+    "CGPA": 8.47
+  },
+  {
+    "NO": 87,
+    "NAME": "Kishan  Shakya",
+    "ENROLLMENT_NO": "BT24CSE013",
+    "CHEM_SEM": 7.54,
+    "PHY_SEM": 9.38,
+    "CGPA": 8.44
+  },
+  {
+    "NO": 88,
+    "NAME": "K Chaitanya",
+    "ENROLLMENT_NO": "BT24ECE048",
+    "CHEM_SEM": 8.41,
+    "PHY_SEM": 8.43,
+    "CGPA": 8.42
+  },
+  {
+    "NO": 89,
+    "NAME": "Cherupally  Sri  Vardhan",
+    "ENROLLMENT_NO": "BT24CSE120",
+    "CHEM_SEM": 8.55,
+    "PHY_SEM": 8.29,
+    "CGPA": 8.42
+  },
+  {
+    "NO": 90,
+    "NAME": "Hrishabh  Vijaysingh  Thakur",
+    "ENROLLMENT_NO": "BT24CSE011",
+    "CHEM_SEM": 8.24,
+    "PHY_SEM": 8.57,
+    "CGPA": 8.4
+  },
+  {
+    "NO": 91,
+    "NAME": "Shikhar  Pareek",
+    "ENROLLMENT_NO": "BT24CIV017",
+    "CHEM_SEM": 8.52,
+    "PHY_SEM": 8.23,
+    "CGPA": 8.37
+  },
+  {
+    "NO": 92,
+    "NAME": "Priyanshu  Prince",
+    "ENROLLMENT_NO": "BT24CSE109",
+    "CHEM_SEM": 8.13,
+    "PHY_SEM": 8.62,
+    "CGPA": 8.37
+  },
+  {
+    "NO": 93,
+    "NAME": "Gujarathi  Swara  Rahul",
+    "ENROLLMENT_NO": "BT24CSE079",
+    "CHEM_SEM": 8.54,
+    "PHY_SEM": 8.19,
+    "CGPA": 8.37
+  },
+  {
+    "NO": 94,
+    "NAME": "Rakshak  Prachi  Purushottam",
+    "ENROLLMENT_NO": "BT24CIV072",
+    "CHEM_SEM": 8.34,
+    "PHY_SEM": 8.36,
+    "CGPA": 8.35
+  },
+  {
+    "NO": 95,
+    "NAME": "Anish Ranjan",
+    "ENROLLMENT_NO": "BT24ECE086",
+    "CHEM_SEM": 8.09,
+    "PHY_SEM": 8.62,
+    "CGPA": 8.35
+  },
+  {
+    "NO": 96,
+    "NAME": "Joshi  Mayank  Mohan",
+    "ENROLLMENT_NO": "BT24MEC059",
+    "CHEM_SEM": 7.87,
+    "PHY_SEM": 8.81,
+    "CGPA": 8.33
+  },
+  {
+    "NO": 97,
+    "NAME": "Mayank  Kumar  Singh",
+    "ENROLLMENT_NO": "BT24EEE086",
+    "CHEM_SEM": 7.92,
+    "PHY_SEM": 8.76,
+    "CGPA": 8.33
+  },
+  {
+    "NO": 98,
+    "NAME": "Sarvesh  Deshpande",
+    "ENROLLMENT_NO": "BT24CIV010",
+    "CHEM_SEM": 8.57,
+    "PHY_SEM": 8.05,
+    "CGPA": 8.3
+  },
+  {
+    "NO": 99,
+    "NAME": "Ishan  Agrawal",
+    "ENROLLMENT_NO": "BT24EEE061",
+    "CHEM_SEM": 8.45,
+    "PHY_SEM": 8.14,
+    "CGPA": 8.3
+  },
+  {
+    "NO": 100,
+    "NAME": "Tanmay  Sharma",
+    "ENROLLMENT_NO": "BT24CME087",
+    "CHEM_SEM": 8.09,
+    "PHY_SEM": 8.5,
+    "CGPA": 8.3
+  },
+  {
+    "NO": 101,
+    "NAME": "Shardul Sudhir Jibhkate",
+    "ENROLLMENT_NO": "BT24ECE049",
+    "CHEM_SEM": 8,
+    "PHY_SEM": 8.62,
+    "CGPA": 8.3
+  },
+  {
+    "NO": 102,
+    "NAME": "Anurag  Mishra",
+    "ENROLLMENT_NO": "BT24MEC044",
+    "CHEM_SEM": 7.87,
+    "PHY_SEM": 8.71,
+    "CGPA": 8.28
+  },
+  {
+    "NO": 103,
+    "NAME": "Patil  Sumedh  Subarao",
+    "ENROLLMENT_NO": "BT24CSE100",
+    "CHEM_SEM": 7.87,
+    "PHY_SEM": 8.71,
+    "CGPA": 8.28
+  },
+  {
+    "NO": 104,
+    "NAME": "Agrawal Sia Pradeep",
+    "ENROLLMENT_NO": "BT24MIN028",
+    "CHEM_SEM": 8.34,
+    "PHY_SEM": 8.18,
+    "CGPA": 8.26
+  },
+  {
+    "NO": 105,
+    "NAME": "Tejas  D  Rao",
+    "ENROLLMENT_NO": "BT24MEC043",
+    "CHEM_SEM": 8.33,
+    "PHY_SEM": 8.19,
+    "CGPA": 8.26
+  },
+  {
+    "NO": 106,
+    "NAME": "Raj  Kastwar",
+    "ENROLLMENT_NO": "BT24CIV013",
+    "CHEM_SEM": 7.82,
+    "PHY_SEM": 8.68,
+    "CGPA": 8.26
+  },
+  {
+    "NO": 107,
+    "NAME": "Bhasuru  Įikhitesh",
+    "ENROLLMENT_NO": "BT24MME018",
+    "CHEM_SEM": 7.68,
+    "PHY_SEM": 8.82,
+    "CGPA": 8.26
+  },
+  {
+    "NO": 108,
+    "NAME": "Gosavi  Shreyas  Prasad",
+    "ENROLLMENT_NO": "BT24EEE041",
+    "CHEM_SEM": 7.64,
+    "PHY_SEM": 8.9,
+    "CGPA": 8.26
+  },
+  {
+    "NO": 109,
+    "NAME": "Nerlikar  Shriya  Gurudev",
+    "ENROLLMENT_NO": "BT24EEE079",
+    "CHEM_SEM": 8.37,
+    "PHY_SEM": 8.14,
+    "CGPA": 8.26
+  },
+  {
+    "NO": 110,
+    "NAME": "Shah  Anjali  Arun",
+    "ENROLLMENT_NO": "BT24CSE102",
+    "CHEM_SEM": 7.83,
+    "PHY_SEM": 8.71,
+    "CGPA": 8.26
+  },
+  {
+    "NO": 111,
+    "NAME": "Sohana  Mokashi",
+    "ENROLLMENT_NO": "BT24MEC112",
+    "CHEM_SEM": 7.86,
+    "PHY_SEM": 8.62,
+    "CGPA": 8.23
+  },
+  {
+    "NO": 112,
+    "NAME": "Jawale Sushant Vikas",
+    "ENROLLMENT_NO": "BT24ECE035",
+    "CHEM_SEM": 7.55,
+    "PHY_SEM": 8.9,
+    "CGPA": 8.21
+  },
+  {
+    "NO": 113,
+    "NAME": "Kukkala  Sai  Siddhardha",
+    "ENROLLMENT_NO": "BT24CSE114",
+    "CHEM_SEM": 8.41,
+    "PHY_SEM": 8,
+    "CGPA": 8.21
+  },
+  {
+    "NO": 114,
+    "NAME": "Nikhil  Vijay  Shinde",
+    "ENROLLMENT_NO": "BT24CSE010",
+    "CHEM_SEM": 8.55,
+    "PHY_SEM": 7.86,
+    "CGPA": 8.21
+  },
+  {
+    "NO": 115,
+    "NAME": "Kabeera  Sinha",
+    "ENROLLMENT_NO": "BT24MEC053",
+    "CHEM_SEM": 8.1,
+    "PHY_SEM": 8.29,
+    "CGPA": 8.19
+  },
+  {
+    "NO": 116,
+    "NAME": "Maity Sandeep Dilip",
+    "ENROLLMENT_NO": "BT24ECE057",
+    "CHEM_SEM": 7.42,
+    "PHY_SEM": 9,
+    "CGPA": 8.19
+  },
+  {
+    "NO": 117,
+    "NAME": "Vaibhav  Įakhara",
+    "ENROLLMENT_NO": "BT24CME107",
+    "CHEM_SEM": 8.18,
+    "PHY_SEM": 8.14,
+    "CGPA": 8.16
+  },
+  {
+    "NO": 118,
+    "NAME": "Nigudkar  Anika  Prashant",
+    "ENROLLMENT_NO": "BT24CME094",
+    "CHEM_SEM": 8.33,
+    "PHY_SEM": 8,
+    "CGPA": 8.16
+  },
+  {
+    "NO": 119,
+    "NAME": "Patil  Pranav  Hansraj",
+    "ENROLLMENT_NO": "BT24EEE067",
+    "CHEM_SEM": 7.95,
+    "PHY_SEM": 8.38,
+    "CGPA": 8.16
+  },
+  {
+    "NO": 120,
+    "NAME": "Basa Srikar",
+    "ENROLLMENT_NO": "BT24ECE039",
+    "CHEM_SEM": 7.64,
+    "PHY_SEM": 8.67,
+    "CGPA": 8.14
+  },
+  {
+    "NO": 121,
+    "NAME": "Neha  Sathish  Nair",
+    "ENROLLMENT_NO": "BT24CSE063",
+    "CHEM_SEM": 7.96,
+    "PHY_SEM": 8.33,
+    "CGPA": 8.14
+  },
+  {
+    "NO": 122,
+    "NAME": "Nawale  Pratik  Atul",
+    "ENROLLMENT_NO": "BT24CIV003",
+    "CHEM_SEM": 9.84,
+    "PHY_SEM": 6.5,
+    "CGPA": 8.13
+  },
+  {
+    "NO": 123,
+    "NAME": "Kaulwar  Varad  Sandeep",
+    "ENROLLMENT_NO": "BT24MEC100",
+    "CHEM_SEM": 7.51,
+    "PHY_SEM": 8.76,
+    "CGPA": 8.12
+  },
+  {
+    "NO": 124,
+    "NAME": "Chahat  Chandani",
+    "ENROLLMENT_NO": "BT24CME106",
+    "CHEM_SEM": 8.1,
+    "PHY_SEM": 8.14,
+    "CGPA": 8.12
+  },
+  {
+    "NO": 125,
+    "NAME": "Pranav  Rameshwar  Tejankar",
+    "ENROLLMENT_NO": "BT24CSE015",
+    "CHEM_SEM": 7.33,
+    "PHY_SEM": 8.95,
+    "CGPA": 8.12
+  },
+  {
+    "NO": 126,
+    "NAME": "Roshan  Kumar  Singh",
+    "ENROLLMENT_NO": "BT24CSE076",
+    "CHEM_SEM": 8.01,
+    "PHY_SEM": 8.24,
+    "CGPA": 8.12
+  },
+  {
+    "NO": 127,
+    "NAME": "Ingole Aryan Manoj",
+    "ENROLLMENT_NO": "BT24MIN017",
+    "CHEM_SEM": 7.99,
+    "PHY_SEM": 8.18,
+    "CGPA": 8.09
+  },
+  {
+    "NO": 128,
+    "NAME": "Ritika  Varshney",
+    "ENROLLMENT_NO": "BT24EEE096",
+    "CHEM_SEM": 7.81,
+    "PHY_SEM": 8.38,
+    "CGPA": 8.09
+  },
+  {
+    "NO": 129,
+    "NAME": "Sriram Rengarajan",
+    "ENROLLMENT_NO": "BT24ECE006",
+    "CHEM_SEM": 7.77,
+    "PHY_SEM": 8.43,
+    "CGPA": 8.09
+  },
+  {
+    "NO": 130,
+    "NAME": "Katta  Pranathi",
+    "ENROLLMENT_NO": "BT24CME099",
+    "CHEM_SEM": 7.86,
+    "PHY_SEM": 8.27,
+    "CGPA": 8.07
+  },
+  {
+    "NO": 131,
+    "NAME": "Chaurasia  Divyansh  Shrinivas",
+    "ENROLLMENT_NO": "BT24CSE094",
+    "CHEM_SEM": 8.23,
+    "PHY_SEM": 7.9,
+    "CGPA": 8.07
+  },
+  {
+    "NO": 132,
+    "NAME": "Dafare  Shantanu  Dilip",
+    "ENROLLMENT_NO": "BT24MEC031",
+    "CHEM_SEM": 7.78,
+    "PHY_SEM": 8.33,
+    "CGPA": 8.05
+  },
+  {
+    "NO": 133,
+    "NAME": "Dhuri  Nishad  Audumbar",
+    "ENROLLMENT_NO": "BT24MEC058",
+    "CHEM_SEM": 7.87,
+    "PHY_SEM": 8.24,
+    "CGPA": 8.05
+  },
+  {
+    "NO": 134,
+    "NAME": "Ayush  Kumar",
+    "ENROLLMENT_NO": "BT24MME100",
+    "CHEM_SEM": 8.05,
+    "PHY_SEM": 8.05,
+    "CGPA": 8.05
+  },
+  {
+    "NO": 135,
+    "NAME": "Ambure  Piyush  Balasaheb",
+    "ENROLLMENT_NO": "BT24EEE038",
+    "CHEM_SEM": 7.73,
+    "PHY_SEM": 8.38,
+    "CGPA": 8.05
+  },
+  {
+    "NO": 136,
+    "NAME": "Modala  Srivalli",
+    "ENROLLMENT_NO": "BT24CSE064",
+    "CHEM_SEM": 8.05,
+    "PHY_SEM": 8.05,
+    "CGPA": 8.05
+  },
+  {
+    "NO": 137,
+    "NAME": "Pranjay  Singh  Chouhan",
+    "ENROLLMENT_NO": "BT24CME068",
+    "CHEM_SEM": 7.85,
+    "PHY_SEM": 8.18,
+    "CGPA": 8.02
+  },
+  {
+    "NO": 138,
+    "NAME": "Navya  Deshmukh",
+    "ENROLLMENT_NO": "BT24CSE054",
+    "CHEM_SEM": 7.72,
+    "PHY_SEM": 8.33,
+    "CGPA": 8.02
+  },
+  {
+    "NO": 139,
+    "NAME": "Patil Yukta Ashish",
+    "ENROLLMENT_NO": "BT24MIN002",
+    "CHEM_SEM": 7.76,
+    "PHY_SEM": 8.23,
+    "CGPA": 8
+  },
+  {
+    "NO": 140,
+    "NAME": "Vyom  Beohar",
+    "ENROLLMENT_NO": "BT24MEC057",
+    "CHEM_SEM": 7.64,
+    "PHY_SEM": 8.38,
+    "CGPA": 8
+  },
+  {
+    "NO": 141,
+    "NAME": "Shivang  Gautam",
+    "ENROLLMENT_NO": "BT24MEC117",
+    "CHEM_SEM": 7.68,
+    "PHY_SEM": 8.33,
+    "CGPA": 8
+  },
+  {
+    "NO": 142,
+    "NAME": "Patel  Chirag  Dharmendrabhai",
+    "ENROLLMENT_NO": "BT24EEE007",
+    "CHEM_SEM": 7.41,
+    "PHY_SEM": 8.62,
+    "CGPA": 8
+  },
+  {
+    "NO": 143,
+    "NAME": "Korivi Mahivardhan Reddy",
+    "ENROLLMENT_NO": "BT24ECE093",
+    "CHEM_SEM": 7.27,
+    "PHY_SEM": 8.76,
+    "CGPA": 8
+  },
+  {
+    "NO": 144,
+    "NAME": "Krish Hiren Gala",
+    "ENROLLMENT_NO": "BT24ECE016",
+    "CHEM_SEM": 7.73,
+    "PHY_SEM": 8.29,
+    "CGPA": 8
+  },
+  {
+    "NO": 145,
+    "NAME": "Kokane Sujal Maroti",
+    "ENROLLMENT_NO": "BT24ECE061",
+    "CHEM_SEM": 8.18,
+    "PHY_SEM": 7.81,
+    "CGPA": 8
+  },
+  {
+    "NO": 146,
+    "NAME": "Jadhav  Vaibhavi  Dhananjay",
+    "ENROLLMENT_NO": "BT24CSE032",
+    "CHEM_SEM": 7.5,
+    "PHY_SEM": 8.52,
+    "CGPA": 8
+  },
+  {
+    "NO": 147,
+    "NAME": "Nidamarty Sai Hansini",
+    "ENROLLMENT_NO": "BT24MIN004",
+    "CHEM_SEM": 8.05,
+    "PHY_SEM": 7.91,
+    "CGPA": 7.98
+  },
+  {
+    "NO": 148,
+    "NAME": "Dole  Shivam  Sanjay",
+    "ENROLLMENT_NO": "BT24CIV031",
+    "CHEM_SEM": 7.86,
+    "PHY_SEM": 8.09,
+    "CGPA": 7.98
+  },
+  {
+    "NO": 149,
+    "NAME": "Vanam Shri Raja Rajeshwari",
+    "ENROLLMENT_NO": "BT24ECE105",
+    "CHEM_SEM": 7.78,
+    "PHY_SEM": 8.19,
+    "CGPA": 7.98
+  },
+  {
+    "NO": 150,
+    "NAME": "Bharati  Atul  Rameshchandra",
+    "ENROLLMENT_NO": "BT24CSE035",
+    "CHEM_SEM": 7.51,
+    "PHY_SEM": 8.48,
+    "CGPA": 7.98
+  },
+  {
+    "NO": 151,
+    "NAME": "Pande  Sarvesh  Shrikant",
+    "ENROLLMENT_NO": "BT24CSE014",
+    "CHEM_SEM": 7.55,
+    "PHY_SEM": 8.43,
+    "CGPA": 7.98
+  },
+  {
+    "NO": 152,
+    "NAME": "Aditya  Raj  Chaurasia",
+    "ENROLLMENT_NO": "BT24CIV115",
+    "CHEM_SEM": 7.75,
+    "PHY_SEM": 8.14,
+    "CGPA": 7.95
+  },
+  {
+    "NO": 153,
+    "NAME": "Sai  Surya  Srikar  Bhamidipati",
+    "ENROLLMENT_NO": "BT24EEE083",
+    "CHEM_SEM": 8.27,
+    "PHY_SEM": 7.62,
+    "CGPA": 7.95
+  },
+  {
+    "NO": 154,
+    "NAME": "Vairagade Ayush Vivekanand",
+    "ENROLLMENT_NO": "BT24ECE082",
+    "CHEM_SEM": 7.4,
+    "PHY_SEM": 8.52,
+    "CGPA": 7.95
+  },
+  {
+    "NO": 155,
+    "NAME": "Edupunoor Chitrala Ikshita",
+    "ENROLLMENT_NO": "BT24ECE062",
+    "CHEM_SEM": 8.04,
+    "PHY_SEM": 7.86,
+    "CGPA": 7.95
+  },
+  {
+    "NO": 156,
+    "NAME": "Vyas  Varad  Parikshitbhai",
+    "ENROLLMENT_NO": "BT24CSE108",
+    "CHEM_SEM": 7.9,
+    "PHY_SEM": 8,
+    "CGPA": 7.95
+  },
+  {
+    "NO": 157,
+    "NAME": "Chavan  Tanmay  Subhash",
+    "ENROLLMENT_NO": "BT24CSE020",
+    "CHEM_SEM": 8.04,
+    "PHY_SEM": 7.86,
+    "CGPA": 7.95
+  },
+  {
+    "NO": 158,
+    "NAME": "Arya  Pratik",
+    "ENROLLMENT_NO": "BT24CSE093",
+    "CHEM_SEM": 8.04,
+    "PHY_SEM": 7.86,
+    "CGPA": 7.95
+  },
+  {
+    "NO": 159,
+    "NAME": "Kuralla  Adarsh",
+    "ENROLLMENT_NO": "BT24CSE080",
+    "CHEM_SEM": 8.31,
+    "PHY_SEM": 7.57,
+    "CGPA": 7.95
+  },
+  {
+    "NO": 160,
+    "NAME": "Gosatkar  Venkatesh  Ashok",
+    "ENROLLMENT_NO": "BT24MEC116",
+    "CHEM_SEM": 7.68,
+    "PHY_SEM": 8.19,
+    "CGPA": 7.93
+  },
+  {
+    "NO": 161,
+    "NAME": "Muvvala Sai Sailesh",
+    "ENROLLMENT_NO": "BT24ECE119",
+    "CHEM_SEM": 7.68,
+    "PHY_SEM": 8.19,
+    "CGPA": 7.93
+  },
+  {
+    "NO": 162,
+    "NAME": "Shrutika     Rajan  Tawade",
+    "ENROLLMENT_NO": "BT24CSE002",
+    "CHEM_SEM": 7.64,
+    "PHY_SEM": 8.24,
+    "CGPA": 7.93
+  },
+  {
+    "NO": 163,
+    "NAME": "Shreyansh  Mohanty",
+    "ENROLLMENT_NO": "BT24CIV046",
+    "CHEM_SEM": 7.67,
+    "PHY_SEM": 8.14,
+    "CGPA": 7.91
+  },
+  {
+    "NO": 164,
+    "NAME": "Mydhili  S  Nair",
+    "ENROLLMENT_NO": "BT24MEC048",
+    "CHEM_SEM": 7.73,
+    "PHY_SEM": 8.1,
+    "CGPA": 7.91
+  },
+  {
+    "NO": 165,
+    "NAME": "Deshpande  Pushkar  Pradiprao",
+    "ENROLLMENT_NO": "BT24CME021",
+    "CHEM_SEM": 8.01,
+    "PHY_SEM": 7.82,
+    "CGPA": 7.91
+  },
+  {
+    "NO": 166,
+    "NAME": "Avantika  Borkar",
+    "ENROLLMENT_NO": "BT24CSE058",
+    "CHEM_SEM": 7.42,
+    "PHY_SEM": 8.43,
+    "CGPA": 7.91
+  },
+  {
+    "NO": 167,
+    "NAME": "Jarajapu  Radheshyam",
+    "ENROLLMENT_NO": "BT24CSE073",
+    "CHEM_SEM": 7.69,
+    "PHY_SEM": 8.14,
+    "CGPA": 7.91
+  },
+  {
+    "NO": 168,
+    "NAME": "Boddeda  Chetan  Swaroop",
+    "ENROLLMENT_NO": "BT24MME080",
+    "CHEM_SEM": 7.75,
+    "PHY_SEM": 8,
+    "CGPA": 7.88
+  },
+  {
+    "NO": 169,
+    "NAME": "Bhopale Sandesh Sanjay",
+    "ENROLLMENT_NO": "BT24ECE014",
+    "CHEM_SEM": 7.17,
+    "PHY_SEM": 8.62,
+    "CGPA": 7.88
+  },
+  {
+    "NO": 170,
+    "NAME": "Tiwari Vaibhav Vinod",
+    "ENROLLMENT_NO": "BT24ECE081",
+    "CHEM_SEM": 8.45,
+    "PHY_SEM": 7.29,
+    "CGPA": 7.88
+  },
+  {
+    "NO": 171,
+    "NAME": "Armaan  Roshan  Shende",
+    "ENROLLMENT_NO": "BT24CSE023",
+    "CHEM_SEM": 7.58,
+    "PHY_SEM": 8.19,
+    "CGPA": 7.88
+  },
+  {
+    "NO": 172,
+    "NAME": "Maddi  Pranay",
+    "ENROLLMENT_NO": "BT24MME110",
+    "CHEM_SEM": 8,
+    "PHY_SEM": 7.73,
+    "CGPA": 7.86
+  },
+  {
+    "NO": 173,
+    "NAME": "Khadtar  Arya  Mahendra",
+    "ENROLLMENT_NO": "BT24MME003",
+    "CHEM_SEM": 8.05,
+    "PHY_SEM": 7.68,
+    "CGPA": 7.86
+  },
+  {
+    "NO": 174,
+    "NAME": "Ayush  Shankar  Shinde",
+    "ENROLLMENT_NO": "BT24CME020",
+    "CHEM_SEM": 7.81,
+    "PHY_SEM": 7.91,
+    "CGPA": 7.86
+  },
+  {
+    "NO": 175,
+    "NAME": "Keerthana  Gorle",
+    "ENROLLMENT_NO": "BT24EEE110",
+    "CHEM_SEM": 7.64,
+    "PHY_SEM": 8.1,
+    "CGPA": 7.86
+  },
+  {
+    "NO": 176,
+    "NAME": "Khandelwal  Rashi  Nirmal",
+    "ENROLLMENT_NO": "BT24EEE012",
+    "CHEM_SEM": 7.73,
+    "PHY_SEM": 8,
+    "CGPA": 7.86
+  },
+  {
+    "NO": 177,
+    "NAME": "Tippineni  Maruthi",
+    "ENROLLMENT_NO": "BT24EEE063",
+    "CHEM_SEM": 7.73,
+    "PHY_SEM": 8,
+    "CGPA": 7.86
+  },
+  {
+    "NO": 178,
+    "NAME": "Rindhe  Prasanna  Anil",
+    "ENROLLMENT_NO": "BT24EEE069",
+    "CHEM_SEM": 7.77,
+    "PHY_SEM": 7.95,
+    "CGPA": 7.86
+  },
+  {
+    "NO": 179,
+    "NAME": "Barade  Amar  Trimbak",
+    "ENROLLMENT_NO": "BT24CSE101",
+    "CHEM_SEM": 7.68,
+    "PHY_SEM": 8.05,
+    "CGPA": 7.86
+  },
+  {
+    "NO": 180,
+    "NAME": "Soumyajit  Ghosh",
+    "ENROLLMENT_NO": "BT24MME109",
+    "CHEM_SEM": 7.62,
+    "PHY_SEM": 8.05,
+    "CGPA": 7.84
+  },
+  {
+    "NO": 181,
+    "NAME": "Rindhe  Shantanu  Vijay",
+    "ENROLLMENT_NO": "BT24CME038",
+    "CHEM_SEM": 8.18,
+    "PHY_SEM": 7.45,
+    "CGPA": 7.81
+  },
+  {
+    "NO": 182,
+    "NAME": "Shashwat  Manish  Tiwari",
+    "ENROLLMENT_NO": "BT24EEE009",
+    "CHEM_SEM": 7.45,
+    "PHY_SEM": 8.19,
+    "CGPA": 7.81
+  },
+  {
+    "NO": 183,
+    "NAME": "Prince  Kumar",
+    "ENROLLMENT_NO": "BT24EEE010",
+    "CHEM_SEM": 7.45,
+    "PHY_SEM": 8.19,
+    "CGPA": 7.81
+  },
+  {
+    "NO": 184,
+    "NAME": "Kassa  Sai  Sathwik",
+    "ENROLLMENT_NO": "BT24EEE022",
+    "CHEM_SEM": 7.49,
+    "PHY_SEM": 8.14,
+    "CGPA": 7.81
+  },
+  {
+    "NO": 185,
+    "NAME": "Sri  Bhavana  Upparapalli  Srinivasa",
+    "ENROLLMENT_NO": "BT24EEE060",
+    "CHEM_SEM": 7.54,
+    "PHY_SEM": 8.1,
+    "CGPA": 7.81
+  },
+  {
+    "NO": 186,
+    "NAME": "Chaitanya  S  Choudhary",
+    "ENROLLMENT_NO": "BT24EEE090",
+    "CHEM_SEM": 7.72,
+    "PHY_SEM": 7.9,
+    "CGPA": 7.81
+  },
+  {
+    "NO": 187,
+    "NAME": "Darapureddi Abhinay Sai Kumar",
+    "ENROLLMENT_NO": "BT24ECE079",
+    "CHEM_SEM": 7.22,
+    "PHY_SEM": 8.43,
+    "CGPA": 7.81
+  },
+  {
+    "NO": 188,
+    "NAME": "Neteti Harshavardhan",
+    "ENROLLMENT_NO": "BT24ECE067",
+    "CHEM_SEM": 8.26,
+    "PHY_SEM": 7.33,
+    "CGPA": 7.81
+  },
+  {
+    "NO": 189,
+    "NAME": "Rathimidde  Gowtham  Gaman",
+    "ENROLLMENT_NO": "BT24CSE104",
+    "CHEM_SEM": 7.99,
+    "PHY_SEM": 7.62,
+    "CGPA": 7.81
+  },
+  {
+    "NO": 190,
+    "NAME": "Bonthu  Įokesh",
+    "ENROLLMENT_NO": "BT24CSE045",
+    "CHEM_SEM": 8.4,
+    "PHY_SEM": 7.19,
+    "CGPA": 7.81
+  },
+  {
+    "NO": 191,
+    "NAME": "Sahil  Mehul  Maroo",
+    "ENROLLMENT_NO": "BT24MME040",
+    "CHEM_SEM": 8.24,
+    "PHY_SEM": 7.36,
+    "CGPA": 7.79
+  },
+  {
+    "NO": 192,
+    "NAME": "Ananya  Goswami",
+    "ENROLLMENT_NO": "BT24EEE050",
+    "CHEM_SEM": 8.18,
+    "PHY_SEM": 7.38,
+    "CGPA": 7.79
+  },
+  {
+    "NO": 193,
+    "NAME": "Rudra Shah",
+    "ENROLLMENT_NO": "BT24ECE091",
+    "CHEM_SEM": 6.91,
+    "PHY_SEM": 8.71,
+    "CGPA": 7.79
+  },
+  {
+    "NO": 194,
+    "NAME": "Toshniwal Gayatri Deepak",
+    "ENROLLMENT_NO": "BT24ECE012",
+    "CHEM_SEM": 7.36,
+    "PHY_SEM": 8.24,
+    "CGPA": 7.79
+  },
+  {
+    "NO": 195,
+    "NAME": "Gorle Harshini",
+    "ENROLLMENT_NO": "BT24ECE029",
+    "CHEM_SEM": 7.5,
+    "PHY_SEM": 8.1,
+    "CGPA": 7.79
+  },
+  {
+    "NO": 196,
+    "NAME": "Agrawal  Parth  Girish",
+    "ENROLLMENT_NO": "BT24CSE036",
+    "CHEM_SEM": 7.45,
+    "PHY_SEM": 8.14,
+    "CGPA": 7.79
+  },
+  {
+    "NO": 197,
+    "NAME": "Jangid  Atharv  Dinesh",
+    "ENROLLMENT_NO": "BT24MEC063",
+    "CHEM_SEM": 7.55,
+    "PHY_SEM": 8,
+    "CGPA": 7.77
+  },
+  {
+    "NO": 198,
+    "NAME": "Manvendra  Pratap  Singh",
+    "ENROLLMENT_NO": "BT24EEE017",
+    "CHEM_SEM": 7.19,
+    "PHY_SEM": 8.38,
+    "CGPA": 7.77
+  },
+  {
+    "NO": 199,
+    "NAME": "Abhishek  Sanjay  Dixit",
+    "ENROLLMENT_NO": "BT24CSE004",
+    "CHEM_SEM": 7.64,
+    "PHY_SEM": 7.9,
+    "CGPA": 7.77
+  },
+  {
+    "NO": 200,
+    "NAME": "Arya  Amitkumar  Baheti",
+    "ENROLLMENT_NO": "BT24CSE081",
+    "CHEM_SEM": 7.73,
+    "PHY_SEM": 7.81,
+    "CGPA": 7.77
+  },
+  {
+    "NO": 201,
+    "NAME": "Vemulapati  Įakshmi  Venkata  Divya",
+    "ENROLLMENT_NO": "BT24CIV052",
+    "CHEM_SEM": 7.66,
+    "PHY_SEM": 7.82,
+    "CGPA": 7.74
+  },
+  {
+    "NO": 202,
+    "NAME": "Vivek  Vishal",
+    "ENROLLMENT_NO": "BT24CIV077",
+    "CHEM_SEM": 7.9,
+    "PHY_SEM": 7.59,
+    "CGPA": 7.74
+  },
+  {
+    "NO": 203,
+    "NAME": "Khande  Shravani  Shrikant",
+    "ENROLLMENT_NO": "BT24MEC026",
+    "CHEM_SEM": 7.08,
+    "PHY_SEM": 8.43,
+    "CGPA": 7.74
+  },
+  {
+    "NO": 204,
+    "NAME": "Akshara  Reddy  Mandala",
+    "ENROLLMENT_NO": "BT24MEC093",
+    "CHEM_SEM": 7.54,
+    "PHY_SEM": 7.95,
+    "CGPA": 7.74
+  },
+  {
+    "NO": 205,
+    "NAME": "Gongada  Aravind  Tagore",
+    "ENROLLMENT_NO": "BT24EEE077",
+    "CHEM_SEM": 7.22,
+    "PHY_SEM": 8.29,
+    "CGPA": 7.74
+  },
+  {
+    "NO": 206,
+    "NAME": "Addala Charmi",
+    "ENROLLMENT_NO": "BT24ECE056",
+    "CHEM_SEM": 7.9,
+    "PHY_SEM": 7.57,
+    "CGPA": 7.74
+  },
+  {
+    "NO": 207,
+    "NAME": "Chirag  Agrawal",
+    "ENROLLMENT_NO": "BT24CME078",
+    "CHEM_SEM": 8,
+    "PHY_SEM": 7.45,
+    "CGPA": 7.72
+  },
+  {
+    "NO": 208,
+    "NAME": "Mrunal Ravindra Jadhav",
+    "ENROLLMENT_NO": "BT24ECE008",
+    "CHEM_SEM": 7.73,
+    "PHY_SEM": 7.71,
+    "CGPA": 7.72
+  },
+  {
+    "NO": 209,
+    "NAME": "Raghav  Nimgaonkar",
+    "ENROLLMENT_NO": "BT24CSE070",
+    "CHEM_SEM": 7.18,
+    "PHY_SEM": 8.29,
+    "CGPA": 7.72
+  },
+  {
+    "NO": 210,
+    "NAME": "Yelisetti  Sri  Rama  Karthik",
+    "ENROLLMENT_NO": "BT24CSE062",
+    "CHEM_SEM": 8.18,
+    "PHY_SEM": 7.24,
+    "CGPA": 7.72
+  },
+  {
+    "NO": 211,
+    "NAME": "Agrima",
+    "ENROLLMENT_NO": "BT24CIV055",
+    "CHEM_SEM": 8.15,
+    "PHY_SEM": 7.27,
+    "CGPA": 7.7
+  },
+  {
+    "NO": 212,
+    "NAME": "Bhalekar  Aniket  Suresh",
+    "ENROLLMENT_NO": "BT24CME024",
+    "CHEM_SEM": 7.58,
+    "PHY_SEM": 7.82,
+    "CGPA": 7.7
+  },
+  {
+    "NO": 213,
+    "NAME": "Arav  Singh",
+    "ENROLLMENT_NO": "BT24EEE005",
+    "CHEM_SEM": 7.14,
+    "PHY_SEM": 8.29,
+    "CGPA": 7.7
+  },
+  {
+    "NO": 214,
+    "NAME": "Soham  Mittal",
+    "ENROLLMENT_NO": "BT24EEE015",
+    "CHEM_SEM": 7.28,
+    "PHY_SEM": 8.14,
+    "CGPA": 7.7
+  },
+  {
+    "NO": 215,
+    "NAME": "Harshita  Umashankar",
+    "ENROLLMENT_NO": "BT24EEE105",
+    "CHEM_SEM": 7.41,
+    "PHY_SEM": 8,
+    "CGPA": 7.7
+  },
+  {
+    "NO": 216,
+    "NAME": "Adusumalli Bhargav",
+    "ENROLLMENT_NO": "BT24ECE118",
+    "CHEM_SEM": 7.1,
+    "PHY_SEM": 8.33,
+    "CGPA": 7.7
+  },
+  {
+    "NO": 217,
+    "NAME": "Trijal Soren",
+    "ENROLLMENT_NO": "BT24ECE032",
+    "CHEM_SEM": 7.5,
+    "PHY_SEM": 7.9,
+    "CGPA": 7.7
+  },
+  {
+    "NO": 218,
+    "NAME": "Salil  B  Chavan",
+    "ENROLLMENT_NO": "BT24CSE027",
+    "CHEM_SEM": 7.96,
+    "PHY_SEM": 7.43,
+    "CGPA": 7.7
+  },
+  {
+    "NO": 219,
+    "NAME": "Vishe Vighnesh Jaywant",
+    "ENROLLMENT_NO": "BT24MIN030",
+    "CHEM_SEM": 7.71,
+    "PHY_SEM": 7.64,
+    "CGPA": 7.67
+  },
+  {
+    "NO": 220,
+    "NAME": "Įanjewar  Yash  Rajkumar",
+    "ENROLLMENT_NO": "BT24MME021",
+    "CHEM_SEM": 7.56,
+    "PHY_SEM": 7.77,
+    "CGPA": 7.67
+  },
+  {
+    "NO": 221,
+    "NAME": "Raut  Anuj  Pravin",
+    "ENROLLMENT_NO": "BT24CME034",
+    "CHEM_SEM": 7.61,
+    "PHY_SEM": 7.73,
+    "CGPA": 7.67
+  },
+  {
+    "NO": 222,
+    "NAME": "Pratham  Sharma",
+    "ENROLLMENT_NO": "BT24CME082",
+    "CHEM_SEM": 7.9,
+    "PHY_SEM": 7.45,
+    "CGPA": 7.67
+  },
+  {
+    "NO": 223,
+    "NAME": "Anushri Tathe",
+    "ENROLLMENT_NO": "BT24ECE063",
+    "CHEM_SEM": 7.08,
+    "PHY_SEM": 8.29,
+    "CGPA": 7.67
+  },
+  {
+    "NO": 224,
+    "NAME": "Manali Vishwanath Undirwade",
+    "ENROLLMENT_NO": "BT24ECE055",
+    "CHEM_SEM": 7.17,
+    "PHY_SEM": 8.19,
+    "CGPA": 7.67
+  },
+  {
+    "NO": 225,
+    "NAME": "Piyush  Anand",
+    "ENROLLMENT_NO": "BT24CIV075",
+    "CHEM_SEM": 7.19,
+    "PHY_SEM": 8.09,
+    "CGPA": 7.65
+  },
+  {
+    "NO": 226,
+    "NAME": "Amogh  Jayant  Nimje",
+    "ENROLLMENT_NO": "BT24MEC035",
+    "CHEM_SEM": 8.13,
+    "PHY_SEM": 7.14,
+    "CGPA": 7.65
+  },
+  {
+    "NO": 227,
+    "NAME": "Kushal Singh",
+    "ENROLLMENT_NO": "BT24ECE112",
+    "CHEM_SEM": 7.32,
+    "PHY_SEM": 8,
+    "CGPA": 7.65
+  },
+  {
+    "NO": 228,
+    "NAME": "Achal  Dubey",
+    "ENROLLMENT_NO": "BT24CSE069",
+    "CHEM_SEM": 7.59,
+    "PHY_SEM": 7.71,
+    "CGPA": 7.65
+  },
+  {
+    "NO": 229,
+    "NAME": "Aman  Chaurasia",
+    "ENROLLMENT_NO": "BT24CIV089",
+    "CHEM_SEM": 7.67,
+    "PHY_SEM": 7.59,
+    "CGPA": 7.63
+  },
+  {
+    "NO": 230,
+    "NAME": "Chavan  Niraj  Devrao",
+    "ENROLLMENT_NO": "BT24MEC007",
+    "CHEM_SEM": 7.37,
+    "PHY_SEM": 7.9,
+    "CGPA": 7.63
+  },
+  {
+    "NO": 231,
+    "NAME": "Hadhi  Hassan  P  P",
+    "ENROLLMENT_NO": "BT24MEC064",
+    "CHEM_SEM": 7.69,
+    "PHY_SEM": 7.57,
+    "CGPA": 7.63
+  },
+  {
+    "NO": 232,
+    "NAME": "Sampatirao Kiran Raj",
+    "ENROLLMENT_NO": "BT24ECE113",
+    "CHEM_SEM": 6.59,
+    "PHY_SEM": 8.71,
+    "CGPA": 7.63
+  },
+  {
+    "NO": 233,
+    "NAME": "Garpal  Disha  Dineshrao",
+    "ENROLLMENT_NO": "BT24CSE110",
+    "CHEM_SEM": 7.13,
+    "PHY_SEM": 8.1,
+    "CGPA": 7.6
+  },
+  {
+    "NO": 234,
+    "NAME": "Ankush Kushwaha",
+    "ENROLLMENT_NO": "BT24MIN045",
+    "CHEM_SEM": 7.76,
+    "PHY_SEM": 7.41,
+    "CGPA": 7.58
+  },
+  {
+    "NO": 235,
+    "NAME": "Kundrapu Bhagya Santoshi",
+    "ENROLLMENT_NO": "BT24MIN032",
+    "CHEM_SEM": 7.81,
+    "PHY_SEM": 7.36,
+    "CGPA": 7.58
+  },
+  {
+    "NO": 236,
+    "NAME": "Jasraj  Singh",
+    "ENROLLMENT_NO": "BT24MME076",
+    "CHEM_SEM": 7.96,
+    "PHY_SEM": 7.18,
+    "CGPA": 7.56
+  },
+  {
+    "NO": 237,
+    "NAME": "Om  Sachin  Warhatkar",
+    "ENROLLMENT_NO": "BT24CME054",
+    "CHEM_SEM": 7.62,
+    "PHY_SEM": 7.5,
+    "CGPA": 7.56
+  },
+  {
+    "NO": 238,
+    "NAME": "Kousthuv  Rana",
+    "ENROLLMENT_NO": "BT24CME048",
+    "CHEM_SEM": 8.05,
+    "PHY_SEM": 7.09,
+    "CGPA": 7.56
+  },
+  {
+    "NO": 239,
+    "NAME": "Singh  Apoorva  Ashish  Ravishankar",
+    "ENROLLMENT_NO": "BT24EEE039",
+    "CHEM_SEM": 6.87,
+    "PHY_SEM": 8.29,
+    "CGPA": 7.56
+  },
+  {
+    "NO": 240,
+    "NAME": "Prasad  Avinash  Kate",
+    "ENROLLMENT_NO": "BT24EEE042",
+    "CHEM_SEM": 7.09,
+    "PHY_SEM": 8.05,
+    "CGPA": 7.56
+  },
+  {
+    "NO": 241,
+    "NAME": "Chokkakula Siva Deepika",
+    "ENROLLMENT_NO": "BT24ECE073",
+    "CHEM_SEM": 7,
+    "PHY_SEM": 8.14,
+    "CGPA": 7.56
+  },
+  {
+    "NO": 242,
+    "NAME": "Patil Pranjal Shivaji",
+    "ENROLLMENT_NO": "BT24ECE110",
+    "CHEM_SEM": 7.41,
+    "PHY_SEM": 7.71,
+    "CGPA": 7.56
+  },
+  {
+    "NO": 243,
+    "NAME": "Ujjawal Goel",
+    "ENROLLMENT_NO": "BT24ECE078",
+    "CHEM_SEM": 7.46,
+    "PHY_SEM": 7.67,
+    "CGPA": 7.56
+  },
+  {
+    "NO": 244,
+    "NAME": "Nichante  Yasholaxmi  Ravindra",
+    "ENROLLMENT_NO": "BT24MME031",
+    "CHEM_SEM": 7.47,
+    "PHY_SEM": 7.59,
+    "CGPA": 7.53
+  },
+  {
+    "NO": 245,
+    "NAME": "Gaddam  Aditya  Subhash",
+    "ENROLLMENT_NO": "BT24MEC051",
+    "CHEM_SEM": 7.54,
+    "PHY_SEM": 7.52,
+    "CGPA": 7.53
+  },
+  {
+    "NO": 246,
+    "NAME": "Sharma  Aman  Shailesh",
+    "ENROLLMENT_NO": "BT24MME026",
+    "CHEM_SEM": 7.89,
+    "PHY_SEM": 7.18,
+    "CGPA": 7.53
+  },
+  {
+    "NO": 247,
+    "NAME": "Patil  Suyash  Pradeep",
+    "ENROLLMENT_NO": "BT24EEE033",
+    "CHEM_SEM": 7.08,
+    "PHY_SEM": 8,
+    "CGPA": 7.53
+  },
+  {
+    "NO": 248,
+    "NAME": "Patil Prerna Parasram",
+    "ENROLLMENT_NO": "BT24ECE102",
+    "CHEM_SEM": 6.95,
+    "PHY_SEM": 8.14,
+    "CGPA": 7.53
+  },
+  {
+    "NO": 249,
+    "NAME": "Pratham Sao",
+    "ENROLLMENT_NO": "BT24ECE069",
+    "CHEM_SEM": 7.22,
+    "PHY_SEM": 7.86,
+    "CGPA": 7.53
+  },
+  {
+    "NO": 250,
+    "NAME": "Phanse Rohan Sandeep",
+    "ENROLLMENT_NO": "BT24ECE096",
+    "CHEM_SEM": 7.63,
+    "PHY_SEM": 7.43,
+    "CGPA": 7.53
+  },
+  {
+    "NO": 251,
+    "NAME": "Shaik  Haseena",
+    "ENROLLMENT_NO": "BT24CSE095",
+    "CHEM_SEM": 7.26,
+    "PHY_SEM": 7.81,
+    "CGPA": 7.53
+  },
+  {
+    "NO": 252,
+    "NAME": "Shinde  Nihal  Pankaj",
+    "ENROLLMENT_NO": "BT24CIV007",
+    "CHEM_SEM": 7.47,
+    "PHY_SEM": 7.55,
+    "CGPA": 7.51
+  },
+  {
+    "NO": 253,
+    "NAME": "Sharma  Rishabh  Shivanand",
+    "ENROLLMENT_NO": "BT24MEC071",
+    "CHEM_SEM": 7.18,
+    "PHY_SEM": 7.86,
+    "CGPA": 7.51
+  },
+  {
+    "NO": 254,
+    "NAME": "Garvit  Jain",
+    "ENROLLMENT_NO": "BT24MEC049",
+    "CHEM_SEM": 7.54,
+    "PHY_SEM": 7.48,
+    "CGPA": 7.51
+  },
+  {
+    "NO": 255,
+    "NAME": "Ali  Arhaan  Ansari",
+    "ENROLLMENT_NO": "BT24CSE077",
+    "CHEM_SEM": 7.54,
+    "PHY_SEM": 7.48,
+    "CGPA": 7.51
+  },
+  {
+    "NO": 256,
+    "NAME": "Jitri Antriksh Rajendra",
+    "ENROLLMENT_NO": "BT24MIN031",
+    "CHEM_SEM": 7.24,
+    "PHY_SEM": 7.73,
+    "CGPA": 7.49
+  },
+  {
+    "NO": 257,
+    "NAME": "Sonawane Aniket Raju",
+    "ENROLLMENT_NO": "BT24MIN003",
+    "CHEM_SEM": 7.62,
+    "PHY_SEM": 7.36,
+    "CGPA": 7.49
+  },
+  {
+    "NO": 258,
+    "NAME": "Somu  Bhavyasree  Siva  Naga  Sai  Sp",
+    "ENROLLMENT_NO": "BT24CIV061",
+    "CHEM_SEM": 6.96,
+    "PHY_SEM": 8,
+    "CGPA": 7.49
+  },
+  {
+    "NO": 259,
+    "NAME": "Mayank  Khatri",
+    "ENROLLMENT_NO": "BT24EEE044",
+    "CHEM_SEM": 7.28,
+    "PHY_SEM": 7.71,
+    "CGPA": 7.49
+  },
+  {
+    "NO": 260,
+    "NAME": "Podduturi Shashank Reddy",
+    "ENROLLMENT_NO": "BT24ECE054",
+    "CHEM_SEM": 7.23,
+    "PHY_SEM": 7.76,
+    "CGPA": 7.49
+  },
+  {
+    "NO": 261,
+    "NAME": "Nagarsale Shraddha Rajkumar",
+    "ENROLLMENT_NO": "BT24ECE038",
+    "CHEM_SEM": 7.28,
+    "PHY_SEM": 7.71,
+    "CGPA": 7.49
+  },
+  {
+    "NO": 262,
+    "NAME": "Ritik  Roushan",
+    "ENROLLMENT_NO": "BT24CIV067",
+    "CHEM_SEM": 6.96,
+    "PHY_SEM": 7.95,
+    "CGPA": 7.47
+  },
+  {
+    "NO": 263,
+    "NAME": "Ayush  Sanjay  Jain",
+    "ENROLLMENT_NO": "BT24MEC067",
+    "CHEM_SEM": 7.55,
+    "PHY_SEM": 7.38,
+    "CGPA": 7.47
+  },
+  {
+    "NO": 264,
+    "NAME": "Gangisetty  Ram  Akhil",
+    "ENROLLMENT_NO": "BT24CME105",
+    "CHEM_SEM": 8.34,
+    "PHY_SEM": 6.64,
+    "CGPA": 7.47
+  },
+  {
+    "NO": 265,
+    "NAME": "Jadhav  Sharvari  Nitinkumar",
+    "ENROLLMENT_NO": "BT24EEE053",
+    "CHEM_SEM": 7.24,
+    "PHY_SEM": 7.71,
+    "CGPA": 7.47
+  },
+  {
+    "NO": 266,
+    "NAME": "Harsh  Kumar  Saini",
+    "ENROLLMENT_NO": "BT24EEE064",
+    "CHEM_SEM": 7.51,
+    "PHY_SEM": 7.43,
+    "CGPA": 7.47
+  },
+  {
+    "NO": 267,
+    "NAME": "Challa Bhanu Sai",
+    "ENROLLMENT_NO": "BT24ECE114",
+    "CHEM_SEM": 7.19,
+    "PHY_SEM": 7.76,
+    "CGPA": 7.47
+  },
+  {
+    "NO": 268,
+    "NAME": "Pore  Nikhil  Yuvraj",
+    "ENROLLMENT_NO": "BT24CSE046",
+    "CHEM_SEM": 7.92,
+    "PHY_SEM": 7,
+    "CGPA": 7.47
+  },
+  {
+    "NO": 269,
+    "NAME": "Joel  Johnson",
+    "ENROLLMENT_NO": "BT24MEC104",
+    "CHEM_SEM": 7.27,
+    "PHY_SEM": 7.62,
+    "CGPA": 7.44
+  },
+  {
+    "NO": 270,
+    "NAME": "Dammu  Sheshi  Kumar",
+    "ENROLLMENT_NO": "BT24EEE082",
+    "CHEM_SEM": 7.13,
+    "PHY_SEM": 7.76,
+    "CGPA": 7.44
+  },
+  {
+    "NO": 271,
+    "NAME": "Siddu Guru Akash Reddy",
+    "ENROLLMENT_NO": "BT24ECE123",
+    "CHEM_SEM": 7.18,
+    "PHY_SEM": 7.71,
+    "CGPA": 7.44
+  },
+  {
+    "NO": 272,
+    "NAME": "Shakti Suresh Iyer",
+    "ENROLLMENT_NO": "BT24ECE125",
+    "CHEM_SEM": 7.18,
+    "PHY_SEM": 7.71,
+    "CGPA": 7.44
+  },
+  {
+    "NO": 273,
+    "NAME": "Dabhade  Shweta  Bhausaheb",
+    "ENROLLMENT_NO": "BT24CIV011",
+    "CHEM_SEM": 7.29,
+    "PHY_SEM": 7.55,
+    "CGPA": 7.42
+  },
+  {
+    "NO": 274,
+    "NAME": "Vaidya  Shalya  Hemraj",
+    "ENROLLMENT_NO": "BT24CIV057",
+    "CHEM_SEM": 7.48,
+    "PHY_SEM": 7.36,
+    "CGPA": 7.42
+  },
+  {
+    "NO": 275,
+    "NAME": "Bhosale  Karan  Sharad",
+    "ENROLLMENT_NO": "BT24CIV041",
+    "CHEM_SEM": 7.76,
+    "PHY_SEM": 7.09,
+    "CGPA": 7.42
+  },
+  {
+    "NO": 276,
+    "NAME": "Ughade  Mayuresh  Manojrao",
+    "ENROLLMENT_NO": "BT24CME005",
+    "CHEM_SEM": 7.29,
+    "PHY_SEM": 7.55,
+    "CGPA": 7.42
+  },
+  {
+    "NO": 277,
+    "NAME": "Satyam  Kumar",
+    "ENROLLMENT_NO": "BT24CME083",
+    "CHEM_SEM": 7.57,
+    "PHY_SEM": 7.27,
+    "CGPA": 7.42
+  },
+  {
+    "NO": 278,
+    "NAME": "Mohammad  Saad  Khan",
+    "ENROLLMENT_NO": "BT24EEE057",
+    "CHEM_SEM": 7.32,
+    "PHY_SEM": 7.52,
+    "CGPA": 7.42
+  },
+  {
+    "NO": 279,
+    "NAME": "Ruchika  Kishorkumar  Pardhi",
+    "ENROLLMENT_NO": "BT24EEE097",
+    "CHEM_SEM": 7.41,
+    "PHY_SEM": 7.43,
+    "CGPA": 7.42
+  },
+  {
+    "NO": 280,
+    "NAME": "Daitharam  Anushka",
+    "ENROLLMENT_NO": "BT24CSE074",
+    "CHEM_SEM": 7.28,
+    "PHY_SEM": 7.57,
+    "CGPA": 7.42
+  },
+  {
+    "NO": 281,
+    "NAME": "Bansod  Anushka  Himmat",
+    "ENROLLMENT_NO": "BT24MME033",
+    "CHEM_SEM": 7.87,
+    "PHY_SEM": 6.95,
+    "CGPA": 7.4
+  },
+  {
+    "NO": 282,
+    "NAME": "Harsh  Vishwakarma",
+    "ENROLLMENT_NO": "BT24MME052",
+    "CHEM_SEM": 8.1,
+    "PHY_SEM": 6.73,
+    "CGPA": 7.4
+  },
+  {
+    "NO": 283,
+    "NAME": "Patil  Tanmay  Eknath",
+    "ENROLLMENT_NO": "BT24MME010",
+    "CHEM_SEM": 8.53,
+    "PHY_SEM": 6.32,
+    "CGPA": 7.4
+  },
+  {
+    "NO": 284,
+    "NAME": "Sameer  Chaudhary",
+    "ENROLLMENT_NO": "BT24MEC062",
+    "CHEM_SEM": 7.01,
+    "PHY_SEM": 7.81,
+    "CGPA": 7.4
+  },
+  {
+    "NO": 285,
+    "NAME": "Sahil  Kumar  Singh",
+    "ENROLLMENT_NO": "BT24CSE105",
+    "CHEM_SEM": 7.19,
+    "PHY_SEM": 7.62,
+    "CGPA": 7.4
+  },
+  {
+    "NO": 286,
+    "NAME": "Harshal  Įiladhar  Nagdeve",
+    "ENROLLMENT_NO": "BT24CIV044",
+    "CHEM_SEM": 7.42,
+    "PHY_SEM": 7.32,
+    "CGPA": 7.37
+  },
+  {
+    "NO": 287,
+    "NAME": "Prince  Gupta",
+    "ENROLLMENT_NO": "BT24CIV064",
+    "CHEM_SEM": 7.95,
+    "PHY_SEM": 6.82,
+    "CGPA": 7.37
+  },
+  {
+    "NO": 288,
+    "NAME": "Pushkar  Grover",
+    "ENROLLMENT_NO": "BT24MME094",
+    "CHEM_SEM": 7.42,
+    "PHY_SEM": 7.32,
+    "CGPA": 7.37
+  },
+  {
+    "NO": 289,
+    "NAME": "Erande  Kaushal  Rahul",
+    "ENROLLMENT_NO": "BT24MEC008",
+    "CHEM_SEM": 7.5,
+    "PHY_SEM": 7.24,
+    "CGPA": 7.37
+  },
+  {
+    "NO": 290,
+    "NAME": "Mrudul  Prashant  Katap",
+    "ENROLLMENT_NO": "BT24EEE093",
+    "CHEM_SEM": 7.45,
+    "PHY_SEM": 7.29,
+    "CGPA": 7.37
+  },
+  {
+    "NO": 291,
+    "NAME": "Kalluri Naga Rishitha",
+    "ENROLLMENT_NO": "BT24ECE099",
+    "CHEM_SEM": 7.22,
+    "PHY_SEM": 7.52,
+    "CGPA": 7.37
+  },
+  {
+    "NO": 292,
+    "NAME": "Shivansh Satyam",
+    "ENROLLMENT_NO": "BT24MIN021",
+    "CHEM_SEM": 7.48,
+    "PHY_SEM": 7.23,
+    "CGPA": 7.35
+  },
+  {
+    "NO": 293,
+    "NAME": "Nandini  Goyal",
+    "ENROLLMENT_NO": "BT24CIV028",
+    "CHEM_SEM": 7.15,
+    "PHY_SEM": 7.55,
+    "CGPA": 7.35
+  },
+  {
+    "NO": 294,
+    "NAME": "Akshita  Sanjeev  Kulkarni",
+    "ENROLLMENT_NO": "BT24MME111",
+    "CHEM_SEM": 7.43,
+    "PHY_SEM": 7.27,
+    "CGPA": 7.35
+  },
+  {
+    "NO": 295,
+    "NAME": "Mrinmoy  Mandal",
+    "ENROLLMENT_NO": "BT24MME070",
+    "CHEM_SEM": 7.76,
+    "PHY_SEM": 6.95,
+    "CGPA": 7.35
+  },
+  {
+    "NO": 296,
+    "NAME": "Harshal  Ramteke",
+    "ENROLLMENT_NO": "BT24MEC032",
+    "CHEM_SEM": 7.28,
+    "PHY_SEM": 7.43,
+    "CGPA": 7.35
+  },
+  {
+    "NO": 297,
+    "NAME": "Aniruddha  Paraskar",
+    "ENROLLMENT_NO": "BT24MEC006",
+    "CHEM_SEM": 7.37,
+    "PHY_SEM": 7.33,
+    "CGPA": 7.35
+  },
+  {
+    "NO": 298,
+    "NAME": "Nikhil  Vijay",
+    "ENROLLMENT_NO": "BT24CME088",
+    "CHEM_SEM": 7.2,
+    "PHY_SEM": 7.45,
+    "CGPA": 7.33
+  },
+  {
+    "NO": 299,
+    "NAME": "Bawankar  Sumit  Raju",
+    "ENROLLMENT_NO": "BT24MEC081",
+    "CHEM_SEM": 7.24,
+    "PHY_SEM": 7.43,
+    "CGPA": 7.33
+  },
+  {
+    "NO": 300,
+    "NAME": "Aryan  Santosh  Shinde",
+    "ENROLLMENT_NO": "BT24EEE070",
+    "CHEM_SEM": 7.14,
+    "PHY_SEM": 7.52,
+    "CGPA": 7.33
+  },
+  {
+    "NO": 301,
+    "NAME": "Saladi Paul Samuel",
+    "ENROLLMENT_NO": "BT24ECE104",
+    "CHEM_SEM": 7.42,
+    "PHY_SEM": 7.24,
+    "CGPA": 7.33
+  },
+  {
+    "NO": 302,
+    "NAME": "Rathod  Siddhi  Sujit",
+    "ENROLLMENT_NO": "BT24CSE099",
+    "CHEM_SEM": 7.01,
+    "PHY_SEM": 7.67,
+    "CGPA": 7.33
+  },
+  {
+    "NO": 303,
+    "NAME": "Dhruv Patil",
+    "ENROLLMENT_NO": "BT24MIN044",
+    "CHEM_SEM": 7.9,
+    "PHY_SEM": 6.73,
+    "CGPA": 7.3
+  },
+  {
+    "NO": 304,
+    "NAME": "Siddhant  Agarwal",
+    "ENROLLMENT_NO": "BT24MME039",
+    "CHEM_SEM": 7.9,
+    "PHY_SEM": 6.73,
+    "CGPA": 7.3
+  },
+  {
+    "NO": 305,
+    "NAME": "Sarath  Chandra  Mouli  Kalavakolanu",
+    "ENROLLMENT_NO": "BT24CME069",
+    "CHEM_SEM": 6.95,
+    "PHY_SEM": 7.64,
+    "CGPA": 7.3
+  },
+  {
+    "NO": 306,
+    "NAME": "Mohammad  Rafey  Ansari",
+    "ENROLLMENT_NO": "BT24CME011",
+    "CHEM_SEM": 7.76,
+    "PHY_SEM": 6.86,
+    "CGPA": 7.3
+  },
+  {
+    "NO": 307,
+    "NAME": "Bansode  Harshraj  Subhash",
+    "ENROLLMENT_NO": "BT24EEE049",
+    "CHEM_SEM": 7.09,
+    "PHY_SEM": 7.52,
+    "CGPA": 7.3
+  },
+  {
+    "NO": 308,
+    "NAME": "Shah  Kanish  Ashokkumar",
+    "ENROLLMENT_NO": "BT24CSE083",
+    "CHEM_SEM": 7.09,
+    "PHY_SEM": 7.52,
+    "CGPA": 7.3
+  },
+  {
+    "NO": 309,
+    "NAME": "Shivadey  Tanmay  Girish",
+    "ENROLLMENT_NO": "BT24CIV020",
+    "CHEM_SEM": 7.34,
+    "PHY_SEM": 7.23,
+    "CGPA": 7.28
+  },
+  {
+    "NO": 310,
+    "NAME": "Shah  Yuvraj  Ashish",
+    "ENROLLMENT_NO": "BT24CIV088",
+    "CHEM_SEM": 7.43,
+    "PHY_SEM": 7.14,
+    "CGPA": 7.28
+  },
+  {
+    "NO": 311,
+    "NAME": "Ananya  Singh",
+    "ENROLLMENT_NO": "BT24CIV016",
+    "CHEM_SEM": 7.95,
+    "PHY_SEM": 6.64,
+    "CGPA": 7.28
+  },
+  {
+    "NO": 312,
+    "NAME": "Amit  Kumar",
+    "ENROLLMENT_NO": "BT24CME102",
+    "CHEM_SEM": 7.29,
+    "PHY_SEM": 7.27,
+    "CGPA": 7.28
+  },
+  {
+    "NO": 313,
+    "NAME": "Prashil Pradeep Sukey",
+    "ENROLLMENT_NO": "BT24ECE052",
+    "CHEM_SEM": 7.09,
+    "PHY_SEM": 7.48,
+    "CGPA": 7.28
+  },
+  {
+    "NO": 314,
+    "NAME": "Muthadi  Sri  Abhiram  Reddy",
+    "ENROLLMENT_NO": "BT24CSE055",
+    "CHEM_SEM": 7.23,
+    "PHY_SEM": 7.33,
+    "CGPA": 7.28
+  },
+  {
+    "NO": 315,
+    "NAME": "Rounak  Jhawar",
+    "ENROLLMENT_NO": "BT24CME002",
+    "CHEM_SEM": 6.96,
+    "PHY_SEM": 7.55,
+    "CGPA": 7.26
+  },
+  {
+    "NO": 316,
+    "NAME": "Krish  Mukhija",
+    "ENROLLMENT_NO": "BT24CME081",
+    "CHEM_SEM": 7.39,
+    "PHY_SEM": 6,
+    "CGPA": 7.26
+  },
+  {
+    "NO": 317,
+    "NAME": "Parimala  Guntuku",
+    "ENROLLMENT_NO": "BT24EEE052",
+    "CHEM_SEM": 7.42,
+    "PHY_SEM": 7.1,
+    "CGPA": 7.26
+  },
+  {
+    "NO": 318,
+    "NAME": "Ansh  Chawla",
+    "ENROLLMENT_NO": "BT24EEE111",
+    "CHEM_SEM": 7.42,
+    "PHY_SEM": 7.1,
+    "CGPA": 7.26
+  },
+  {
+    "NO": 319,
+    "NAME": "Sanket Ravin Bagde",
+    "ENROLLMENT_NO": "BT24ECE026",
+    "CHEM_SEM": 6.83,
+    "PHY_SEM": 7.71,
+    "CGPA": 7.26
+  },
+  {
+    "NO": 320,
+    "NAME": "Shelke Shivkumar Dattatry",
+    "ENROLLMENT_NO": "BT24ECE095",
+    "CHEM_SEM": 7.28,
+    "PHY_SEM": 7.24,
+    "CGPA": 7.26
+  },
+  {
+    "NO": 321,
+    "NAME": "Adwait  Vikram  Singh  Rathore",
+    "ENROLLMENT_NO": "BT24MEC101",
+    "CHEM_SEM": 7.45,
+    "PHY_SEM": 7,
+    "CGPA": 7.23
+  },
+  {
+    "NO": 322,
+    "NAME": "Chawhan Meet Rupesh",
+    "ENROLLMENT_NO": "BT24MIN039",
+    "CHEM_SEM": 7.62,
+    "PHY_SEM": 6.82,
+    "CGPA": 7.21
+  },
+  {
+    "NO": 323,
+    "NAME": "Krati  Verma",
+    "ENROLLMENT_NO": "BT24MEC072",
+    "CHEM_SEM": 6.86,
+    "PHY_SEM": 7.57,
+    "CGPA": 7.21
+  },
+  {
+    "NO": 324,
+    "NAME": "Kanade  Sarthak  Sachin",
+    "ENROLLMENT_NO": "BT24CME022",
+    "CHEM_SEM": 7.29,
+    "PHY_SEM": 7.14,
+    "CGPA": 7.21
+  },
+  {
+    "NO": 325,
+    "NAME": "Sharvansh  Singh",
+    "ENROLLMENT_NO": "BT24EEE037",
+    "CHEM_SEM": 6.91,
+    "PHY_SEM": 7.52,
+    "CGPA": 7.21
+  },
+  {
+    "NO": 326,
+    "NAME": "Patil  Aditya  Manish",
+    "ENROLLMENT_NO": "BT24CSE022",
+    "CHEM_SEM": 7.23,
+    "PHY_SEM": 7.19,
+    "CGPA": 7.21
+  },
+  {
+    "NO": 327,
+    "NAME": "Aayush  Pandey",
+    "ENROLLMENT_NO": "BT24CIV037",
+    "CHEM_SEM": 7.06,
+    "PHY_SEM": 7.32,
+    "CGPA": 7.19
+  },
+  {
+    "NO": 328,
+    "NAME": "Madhav  Soni",
+    "ENROLLMENT_NO": "BT24CIV060",
+    "CHEM_SEM": 7.58,
+    "PHY_SEM": 6.82,
+    "CGPA": 7.19
+  },
+  {
+    "NO": 329,
+    "NAME": "Punith  K  S",
+    "ENROLLMENT_NO": "BT24MME060",
+    "CHEM_SEM": 7.44,
+    "PHY_SEM": 6.95,
+    "CGPA": 7.19
+  },
+  {
+    "NO": 330,
+    "NAME": "Moksh  Kevaltani",
+    "ENROLLMENT_NO": "BT24MME107",
+    "CHEM_SEM": 7.58,
+    "PHY_SEM": 6.82,
+    "CGPA": 7.19
+  },
+  {
+    "NO": 331,
+    "NAME": "Pawar  Utkarsh  Mohan",
+    "ENROLLMENT_NO": "BT24EEE084",
+    "CHEM_SEM": 6.46,
+    "PHY_SEM": 7.95,
+    "CGPA": 7.19
+  },
+  {
+    "NO": 332,
+    "NAME": "Krishsingh  Kaintura",
+    "ENROLLMENT_NO": "BT24CSE001",
+    "CHEM_SEM": 7.37,
+    "PHY_SEM": 7,
+    "CGPA": 7.19
+  },
+  {
+    "NO": 333,
+    "NAME": "Gangumalla  Manojna",
+    "ENROLLMENT_NO": "BT24CIV098",
+    "CHEM_SEM": 7.33,
+    "PHY_SEM": 7,
+    "CGPA": 7.16
+  },
+  {
+    "NO": 334,
+    "NAME": "Boddireddy  Sahasra",
+    "ENROLLMENT_NO": "BT24MEC029",
+    "CHEM_SEM": 6.49,
+    "PHY_SEM": 7.86,
+    "CGPA": 7.16
+  },
+  {
+    "NO": 335,
+    "NAME": "Anushka  Arun  Khobragade",
+    "ENROLLMENT_NO": "BT24MEC022",
+    "CHEM_SEM": 6.77,
+    "PHY_SEM": 7.57,
+    "CGPA": 7.16
+  },
+  {
+    "NO": 336,
+    "NAME": "Madrewar  Dnyanesh",
+    "ENROLLMENT_NO": "BT24EEE104",
+    "CHEM_SEM": 7.18,
+    "PHY_SEM": 7.14,
+    "CGPA": 7.16
+  },
+  {
+    "NO": 337,
+    "NAME": "Ajitesh Chandran Nair",
+    "ENROLLMENT_NO": "BT24ECE004",
+    "CHEM_SEM": 6.99,
+    "PHY_SEM": 7.33,
+    "CGPA": 7.16
+  },
+  {
+    "NO": 338,
+    "NAME": "Chavakula   Seshu  Kiran",
+    "ENROLLMENT_NO": "BT24CSE115",
+    "CHEM_SEM": 7.45,
+    "PHY_SEM": 6.86,
+    "CGPA": 7.16
+  },
+  {
+    "NO": 339,
+    "NAME": "Jain  Krish  Hemant",
+    "ENROLLMENT_NO": "BT24MME063",
+    "CHEM_SEM": 7.86,
+    "PHY_SEM": 6.45,
+    "CGPA": 7.14
+  },
+  {
+    "NO": 340,
+    "NAME": "Joel  Biju  Varghese",
+    "ENROLLMENT_NO": "BT24MEC004",
+    "CHEM_SEM": 6.59,
+    "PHY_SEM": 7.71,
+    "CGPA": 7.14
+  },
+  {
+    "NO": 341,
+    "NAME": "Tangudu  Guna  Sekhar",
+    "ENROLLMENT_NO": "BT24MEC095",
+    "CHEM_SEM": 7,
+    "PHY_SEM": 7.29,
+    "CGPA": 7.14
+  },
+  {
+    "NO": 342,
+    "NAME": "Gaikwad  Ravindra  Dhanaji",
+    "ENROLLMENT_NO": "BT24CSE078",
+    "CHEM_SEM": 7.46,
+    "PHY_SEM": 6.81,
+    "CGPA": 7.14
+  },
+  {
+    "NO": 343,
+    "NAME": "Įeelakrishna  Rajasimha  Yadav  Dod",
+    "ENROLLMENT_NO": "BT24CIV111",
+    "CHEM_SEM": 7.15,
+    "PHY_SEM": 7.09,
+    "CGPA": 7.12
+  },
+  {
+    "NO": 344,
+    "NAME": "Pragya  Agarwal",
+    "ENROLLMENT_NO": "BT24CME070",
+    "CHEM_SEM": 6.91,
+    "PHY_SEM": 7.32,
+    "CGPA": 7.12
+  },
+  {
+    "NO": 345,
+    "NAME": "Pendem  Manikanta",
+    "ENROLLMENT_NO": "BT24MEC050",
+    "CHEM_SEM": 6.69,
+    "PHY_SEM": 7.57,
+    "CGPA": 7.12
+  },
+  {
+    "NO": 346,
+    "NAME": "Kale  Manthan  Vijay",
+    "ENROLLMENT_NO": "BT24CME003",
+    "CHEM_SEM": 7.23,
+    "PHY_SEM": 6,
+    "CGPA": 7.12
+  },
+  {
+    "NO": 347,
+    "NAME": "Bekanalkar Aryan Arun",
+    "ENROLLMENT_NO": "BT24ECE041",
+    "CHEM_SEM": 7.23,
+    "PHY_SEM": 7,
+    "CGPA": 7.12
+  },
+  {
+    "NO": 348,
+    "NAME": "Tanas Adhikari",
+    "ENROLLMENT_NO": "BT24MIN019",
+    "CHEM_SEM": 6.8,
+    "PHY_SEM": 7.36,
+    "CGPA": 7.09
+  },
+  {
+    "NO": 349,
+    "NAME": "Salunke Aditya Sunil",
+    "ENROLLMENT_NO": "BT24MIN034",
+    "CHEM_SEM": 7.18,
+    "PHY_SEM": 7,
+    "CGPA": 7.09
+  },
+  {
+    "NO": 350,
+    "NAME": "Sohaliya  Pranjal  Gajanan",
+    "ENROLLMENT_NO": "BT24CME060",
+    "CHEM_SEM": 7.18,
+    "PHY_SEM": 7,
+    "CGPA": 7.09
+  },
+  {
+    "NO": 351,
+    "NAME": "Sakhamuri Sri Manikanta Naidu",
+    "ENROLLMENT_NO": "BT24ECE122",
+    "CHEM_SEM": 6.81,
+    "PHY_SEM": 7.38,
+    "CGPA": 7.09
+  },
+  {
+    "NO": 352,
+    "NAME": "Warghat  Manaswi  Mukunda",
+    "ENROLLMENT_NO": "BT24CIV050",
+    "CHEM_SEM": 7.48,
+    "PHY_SEM": 6.68,
+    "CGPA": 7.07
+  },
+  {
+    "NO": 353,
+    "NAME": "Harsha  Vardhan  Pandey",
+    "ENROLLMENT_NO": "BT24MME098",
+    "CHEM_SEM": 7.05,
+    "PHY_SEM": 7.09,
+    "CGPA": 7.07
+  },
+  {
+    "NO": 354,
+    "NAME": "Gaddamwar  Prem  Ravindra",
+    "ENROLLMENT_NO": "BT24CIV103",
+    "CHEM_SEM": 7.67,
+    "PHY_SEM": 6.5,
+    "CGPA": 7.07
+  },
+  {
+    "NO": 355,
+    "NAME": "Apurba  Ananya",
+    "ENROLLMENT_NO": "BT24CME067",
+    "CHEM_SEM": 6.71,
+    "PHY_SEM": 7.41,
+    "CGPA": 7.07
+  },
+  {
+    "NO": 356,
+    "NAME": "Ingale  Prathamesh  Dhanaji",
+    "ENROLLMENT_NO": "BT24CME027",
+    "CHEM_SEM": 7.43,
+    "PHY_SEM": 6.73,
+    "CGPA": 7.07
+  },
+  {
+    "NO": 357,
+    "NAME": "Jegiram  Sai  Akash",
+    "ENROLLMENT_NO": "BT24EEE091",
+    "CHEM_SEM": 6.82,
+    "PHY_SEM": 7.33,
+    "CGPA": 7.07
+  },
+  {
+    "NO": 358,
+    "NAME": "Surve  Mohit  Kishor",
+    "ENROLLMENT_NO": "BT24EEE024",
+    "CHEM_SEM": 6.91,
+    "PHY_SEM": 7.24,
+    "CGPA": 7.07
+  },
+  {
+    "NO": 359,
+    "NAME": "Mundwaik Janhavi Pramod",
+    "ENROLLMENT_NO": "BT24MIN038",
+    "CHEM_SEM": 7.48,
+    "PHY_SEM": 6.64,
+    "CGPA": 7.05
+  },
+  {
+    "NO": 360,
+    "NAME": "Rithe  Aastha  Sanjay",
+    "ENROLLMENT_NO": "BT24MEC041",
+    "CHEM_SEM": 6.51,
+    "PHY_SEM": 7.62,
+    "CGPA": 7.05
+  },
+  {
+    "NO": 361,
+    "NAME": "Sawai  Kartiki  Sandip",
+    "ENROLLMENT_NO": "BT24CME053",
+    "CHEM_SEM": 7.01,
+    "PHY_SEM": 7.09,
+    "CGPA": 7.05
+  },
+  {
+    "NO": 362,
+    "NAME": "Sahana Sinha",
+    "ENROLLMENT_NO": "BT24ECE019",
+    "CHEM_SEM": 7.42,
+    "PHY_SEM": 6.67,
+    "CGPA": 7.05
+  },
+  {
+    "NO": 363,
+    "NAME": "Kallivarapu  Chandra  Shekar",
+    "ENROLLMENT_NO": "BT24CSE072",
+    "CHEM_SEM": 7.73,
+    "PHY_SEM": 6.33,
+    "CGPA": 7.05
+  },
+  {
+    "NO": 364,
+    "NAME": "Divyansh  Dixit",
+    "ENROLLMENT_NO": "BT24CIV108",
+    "CHEM_SEM": 7.18,
+    "PHY_SEM": 6.86,
+    "CGPA": 7.02
+  },
+  {
+    "NO": 365,
+    "NAME": "Barme  Sangmeshwar  Baliram",
+    "ENROLLMENT_NO": "BT24CIV008",
+    "CHEM_SEM": 7.23,
+    "PHY_SEM": 6.82,
+    "CGPA": 7.02
+  },
+  {
+    "NO": 366,
+    "NAME": "Samyak  Jain",
+    "ENROLLMENT_NO": "BT24CIV076",
+    "CHEM_SEM": 7.8,
+    "PHY_SEM": 6.27,
+    "CGPA": 7.02
+  },
+  {
+    "NO": 367,
+    "NAME": "Shitale  Vinayak  Suresh",
+    "ENROLLMENT_NO": "BT24EEE016",
+    "CHEM_SEM": 6.54,
+    "PHY_SEM": 7.52,
+    "CGPA": 7.02
+  },
+  {
+    "NO": 368,
+    "NAME": "Nandu  Suresh  Agiwale",
+    "ENROLLMENT_NO": "BT24EEE095",
+    "CHEM_SEM": 6.9,
+    "PHY_SEM": 7.14,
+    "CGPA": 7.02
+  },
+  {
+    "NO": 369,
+    "NAME": "Sriya  C  R",
+    "ENROLLMENT_NO": "BT24CIV084",
+    "CHEM_SEM": 7.33,
+    "PHY_SEM": 6.68,
+    "CGPA": 7
+  },
+  {
+    "NO": 370,
+    "NAME": "Harshit  Raj",
+    "ENROLLMENT_NO": "BT24CIV040",
+    "CHEM_SEM": 7.21,
+    "PHY_SEM": 5,
+    "CGPA": 7
+  },
+  {
+    "NO": 371,
+    "NAME": "Balivada  Sahithi",
+    "ENROLLMENT_NO": "BT24MEC054",
+    "CHEM_SEM": 6.73,
+    "PHY_SEM": 7.29,
+    "CGPA": 7
+  },
+  {
+    "NO": 372,
+    "NAME": "Mishra  Rohit  Ravi",
+    "ENROLLMENT_NO": "BT24CME023",
+    "CHEM_SEM": 6.9,
+    "PHY_SEM": 7.09,
+    "CGPA": 7
+  },
+  {
+    "NO": 373,
+    "NAME": "Tanishq  Borse",
+    "ENROLLMENT_NO": "BT24CME046",
+    "CHEM_SEM": 7.38,
+    "PHY_SEM": 6.64,
+    "CGPA": 7
+  },
+  {
+    "NO": 374,
+    "NAME": "Annangi  Ganesh",
+    "ENROLLMENT_NO": "BT24CSE044",
+    "CHEM_SEM": 7.5,
+    "PHY_SEM": 6.48,
+    "CGPA": 7
+  },
+  {
+    "NO": 375,
+    "NAME": "Kamthe Sahil Ambar",
+    "ENROLLMENT_NO": "BT24MIN018",
+    "CHEM_SEM": 7.15,
+    "PHY_SEM": 6.82,
+    "CGPA": 6.98
+  },
+  {
+    "NO": 376,
+    "NAME": "Aryan  Garg",
+    "ENROLLMENT_NO": "BT24MME067",
+    "CHEM_SEM": 7.53,
+    "PHY_SEM": 6.45,
+    "CGPA": 6.98
+  },
+  {
+    "NO": 377,
+    "NAME": "Shantanu  Pandhari  Kamdi",
+    "ENROLLMENT_NO": "BT24CIV021",
+    "CHEM_SEM": 6.96,
+    "PHY_SEM": 7,
+    "CGPA": 6.98
+  },
+  {
+    "NO": 378,
+    "NAME": "Elineni  Bhuvaneshwari",
+    "ENROLLMENT_NO": "BT24MEC096",
+    "CHEM_SEM": 7.1,
+    "PHY_SEM": 6.86,
+    "CGPA": 6.98
+  },
+  {
+    "NO": 379,
+    "NAME": "Arun  Kumar  Gupta",
+    "ENROLLMENT_NO": "BT24CME104",
+    "CHEM_SEM": 7.34,
+    "PHY_SEM": 6.64,
+    "CGPA": 6.98
+  },
+  {
+    "NO": 380,
+    "NAME": "Siddhant  Dorela",
+    "ENROLLMENT_NO": "BT24CME006",
+    "CHEM_SEM": 7.53,
+    "PHY_SEM": 6.45,
+    "CGPA": 6.98
+  },
+  {
+    "NO": 381,
+    "NAME": "Kalakota  Įakshmi  Pranathi",
+    "ENROLLMENT_NO": "BT24CSE017",
+    "CHEM_SEM": 6.6,
+    "PHY_SEM": 7.38,
+    "CGPA": 6.98
+  },
+  {
+    "NO": 382,
+    "NAME": "Kamble  Akansha  Ashok",
+    "ENROLLMENT_NO": "BT24CSE039",
+    "CHEM_SEM": 6.98,
+    "PHY_SEM": 7,
+    "CGPA": 6.98
+  },
+  {
+    "NO": 383,
+    "NAME": "Tanu Patil",
+    "ENROLLMENT_NO": "BT24MIN014",
+    "CHEM_SEM": 6.56,
+    "PHY_SEM": 7.32,
+    "CGPA": 6.95
+  },
+  {
+    "NO": 384,
+    "NAME": "Gaddam  Įakshmi  Narayana",
+    "ENROLLMENT_NO": "BT24MME027",
+    "CHEM_SEM": 7.05,
+    "PHY_SEM": 6.5,
+    "CGPA": 6.95
+  },
+  {
+    "NO": 385,
+    "NAME": "Sayee  Chaudhari",
+    "ENROLLMENT_NO": "BT24CIV038",
+    "CHEM_SEM": 7.52,
+    "PHY_SEM": 6.41,
+    "CGPA": 6.95
+  },
+  {
+    "NO": 386,
+    "NAME": "Bhoga  Dharani",
+    "ENROLLMENT_NO": "BT24CME108",
+    "CHEM_SEM": 6.9,
+    "PHY_SEM": 7,
+    "CGPA": 6.95
+  },
+  {
+    "NO": 387,
+    "NAME": "Kumar  Priyanshu  Jha",
+    "ENROLLMENT_NO": "BT24CME096",
+    "CHEM_SEM": 7.18,
+    "PHY_SEM": 6.73,
+    "CGPA": 6.95
+  },
+  {
+    "NO": 388,
+    "NAME": "Sembangi  Pranay",
+    "ENROLLMENT_NO": "BT24EEE034",
+    "CHEM_SEM": 6.68,
+    "PHY_SEM": 7.24,
+    "CGPA": 6.95
+  },
+  {
+    "NO": 389,
+    "NAME": "Kunchala Mohan Sai",
+    "ENROLLMENT_NO": "BT24ECE097",
+    "CHEM_SEM": 6.86,
+    "PHY_SEM": 7.05,
+    "CGPA": 6.95
+  },
+  {
+    "NO": 390,
+    "NAME": "Borhade  Vedant  Yogesh",
+    "ENROLLMENT_NO": "BT24MEC105",
+    "CHEM_SEM": 6.86,
+    "PHY_SEM": 7,
+    "CGPA": 6.93
+  },
+  {
+    "NO": 391,
+    "NAME": "Kailash  Sankhla",
+    "ENROLLMENT_NO": "BT24CIV047",
+    "CHEM_SEM": 6.71,
+    "PHY_SEM": 7.14,
+    "CGPA": 6.93
+  },
+  {
+    "NO": 392,
+    "NAME": "Manjusha  Mukesh  Gaikwad",
+    "ENROLLMENT_NO": "BT24MEC098",
+    "CHEM_SEM": 6.91,
+    "PHY_SEM": 6.95,
+    "CGPA": 6.93
+  },
+  {
+    "NO": 393,
+    "NAME": "Velpula  Mokshagna",
+    "ENROLLMENT_NO": "BT24CIV035",
+    "CHEM_SEM": 6.86,
+    "PHY_SEM": 7,
+    "CGPA": 6.93
+  },
+  {
+    "NO": 394,
+    "NAME": "Paritoshit  Singh  Rathore",
+    "ENROLLMENT_NO": "BT24CME079",
+    "CHEM_SEM": 6.9,
+    "PHY_SEM": 6.95,
+    "CGPA": 6.93
+  },
+  {
+    "NO": 395,
+    "NAME": "Abhishek  Sharad  Bhosale",
+    "ENROLLMENT_NO": "BT24EEE013",
+    "CHEM_SEM": 6.59,
+    "PHY_SEM": 7.29,
+    "CGPA": 6.93
+  },
+  {
+    "NO": 396,
+    "NAME": "Kankipati Satwik Shreyas",
+    "ENROLLMENT_NO": "BT24ECE115",
+    "CHEM_SEM": 6.95,
+    "PHY_SEM": 6.9,
+    "CGPA": 6.93
+  },
+  {
+    "NO": 397,
+    "NAME": "Agrekar  Kewal  Dilip",
+    "ENROLLMENT_NO": "BT24CSE084",
+    "CHEM_SEM": 7.41,
+    "PHY_SEM": 6.43,
+    "CGPA": 6.93
+  },
+  {
+    "NO": 398,
+    "NAME": "Sanjivnaath  P",
+    "ENROLLMENT_NO": "BT24MEC056",
+    "CHEM_SEM": 9.07,
+    "PHY_SEM": 4.67,
+    "CGPA": 6.92
+  },
+  {
+    "NO": 399,
+    "NAME": "Pantham  Ramanujam",
+    "ENROLLMENT_NO": "BT24MEC076",
+    "CHEM_SEM": 7.01,
+    "PHY_SEM": 6.81,
+    "CGPA": 6.91
+  },
+  {
+    "NO": 400,
+    "NAME": "Agalave Soham Santosh",
+    "ENROLLMENT_NO": "BT24ECE072",
+    "CHEM_SEM": 6.51,
+    "PHY_SEM": 7.33,
+    "CGPA": 6.91
+  },
+  {
+    "NO": 401,
+    "NAME": "Rishav  Tiwari",
+    "ENROLLMENT_NO": "BT24MME022",
+    "CHEM_SEM": 6.33,
+    "PHY_SEM": 7.41,
+    "CGPA": 6.88
+  },
+  {
+    "NO": 402,
+    "NAME": "Mishra  Shreya  Vikas",
+    "ENROLLMENT_NO": "BT24MME079",
+    "CHEM_SEM": 7.04,
+    "PHY_SEM": 6.73,
+    "CGPA": 6.88
+  },
+  {
+    "NO": 403,
+    "NAME": "Sabale  Ojas  Nandkishore",
+    "ENROLLMENT_NO": "BT24MEC028",
+    "CHEM_SEM": 6.72,
+    "PHY_SEM": 7.05,
+    "CGPA": 6.88
+  },
+  {
+    "NO": 404,
+    "NAME": "Saksham  Bansal",
+    "ENROLLMENT_NO": "BT24MEC017",
+    "CHEM_SEM": 7.17,
+    "PHY_SEM": 6.57,
+    "CGPA": 6.88
+  },
+  {
+    "NO": 405,
+    "NAME": "Gurijala  Samith  Reddy",
+    "ENROLLMENT_NO": "BT24CME051",
+    "CHEM_SEM": 6.77,
+    "PHY_SEM": 8,
+    "CGPA": 6.88
+  },
+  {
+    "NO": 406,
+    "NAME": "Sarth  Dharpure",
+    "ENROLLMENT_NO": "BT24CME031",
+    "CHEM_SEM": 7.33,
+    "PHY_SEM": 6.45,
+    "CGPA": 6.88
+  },
+  {
+    "NO": 407,
+    "NAME": "Jambhulkar  Aaryesh  Gautam",
+    "ENROLLMENT_NO": "BT24CME029",
+    "CHEM_SEM": 6.97,
+    "PHY_SEM": 6,
+    "CGPA": 6.88
+  },
+  {
+    "NO": 408,
+    "NAME": "Janhvi  Ritesh  Įokhande",
+    "ENROLLMENT_NO": "BT24EEE025",
+    "CHEM_SEM": 6.81,
+    "PHY_SEM": 6.95,
+    "CGPA": 6.88
+  },
+  {
+    "NO": 409,
+    "NAME": "Kasar Vaishnavi Ganesh",
+    "ENROLLMENT_NO": "BT24ECE031",
+    "CHEM_SEM": 6.63,
+    "PHY_SEM": 7.14,
+    "CGPA": 6.88
+  },
+  {
+    "NO": 410,
+    "NAME": "Korada  Sadhu  Venkata  Manoj",
+    "ENROLLMENT_NO": "BT24MEC097",
+    "CHEM_SEM": 6.36,
+    "PHY_SEM": 7.38,
+    "CGPA": 6.86
+  },
+  {
+    "NO": 411,
+    "NAME": "Kaldhone  Siddharth  Ramesh",
+    "ENROLLMENT_NO": "BT24MEC068",
+    "CHEM_SEM": 6.91,
+    "PHY_SEM": 6.81,
+    "CGPA": 6.86
+  },
+  {
+    "NO": 412,
+    "NAME": "Balivada  Ganesh  Kumar",
+    "ENROLLMENT_NO": "BT24MEC046",
+    "CHEM_SEM": 7.09,
+    "PHY_SEM": 6.62,
+    "CGPA": 6.86
+  },
+  {
+    "NO": 413,
+    "NAME": "Tanishk  Pilania",
+    "ENROLLMENT_NO": "BT24CME056",
+    "CHEM_SEM": 6.74,
+    "PHY_SEM": 8,
+    "CGPA": 6.86
+  },
+  {
+    "NO": 414,
+    "NAME": "Yandralwar  Omkar  Dhanu",
+    "ENROLLMENT_NO": "BT24EEE040",
+    "CHEM_SEM": 6.18,
+    "PHY_SEM": 7.57,
+    "CGPA": 6.86
+  },
+  {
+    "NO": 415,
+    "NAME": "Yashraj  Suneja",
+    "ENROLLMENT_NO": "BT24EEE113",
+    "CHEM_SEM": 7.54,
+    "PHY_SEM": 6.14,
+    "CGPA": 6.86
+  },
+  {
+    "NO": 416,
+    "NAME": "Gohane Harsh Murlidhar",
+    "ENROLLMENT_NO": "BT24ECE087",
+    "CHEM_SEM": 6.54,
+    "PHY_SEM": 7.19,
+    "CGPA": 6.86
+  },
+  {
+    "NO": 417,
+    "NAME": "Patnana Saran",
+    "ENROLLMENT_NO": "BT24ECE084",
+    "CHEM_SEM": 6.73,
+    "PHY_SEM": 7,
+    "CGPA": 6.86
+  },
+  {
+    "NO": 418,
+    "NAME": "Atharva Tripathi",
+    "ENROLLMENT_NO": "BT24ECE076",
+    "CHEM_SEM": 7.86,
+    "PHY_SEM": 5.81,
+    "CGPA": 6.86
+  },
+  {
+    "NO": 419,
+    "NAME": "Tilavath  Bhanu  Prakash",
+    "ENROLLMENT_NO": "BT24CSE012",
+    "CHEM_SEM": 6.64,
+    "PHY_SEM": 7.1,
+    "CGPA": 6.86
+  },
+  {
+    "NO": 420,
+    "NAME": "Aryan  Gupta",
+    "ENROLLMENT_NO": "BT24MME084",
+    "CHEM_SEM": 6.43,
+    "PHY_SEM": 7.23,
+    "CGPA": 6.84
+  },
+  {
+    "NO": 421,
+    "NAME": "Nare  Aditya  Kalba",
+    "ENROLLMENT_NO": "BT24MEC099",
+    "CHEM_SEM": 6.41,
+    "PHY_SEM": 7.29,
+    "CGPA": 6.84
+  },
+  {
+    "NO": 422,
+    "NAME": "Soumya  Mundhada",
+    "ENROLLMENT_NO": "BT24CME042",
+    "CHEM_SEM": 7.03,
+    "PHY_SEM": 5,
+    "CGPA": 6.84
+  },
+  {
+    "NO": 423,
+    "NAME": "Patil  Omkar  Arjun",
+    "ENROLLMENT_NO": "BT24EEE045",
+    "CHEM_SEM": 6.23,
+    "PHY_SEM": 7.48,
+    "CGPA": 6.84
+  },
+  {
+    "NO": 424,
+    "NAME": "Vidhika  Vilas  Dhurve",
+    "ENROLLMENT_NO": "BT24EEE014",
+    "CHEM_SEM": 6.69,
+    "PHY_SEM": 7,
+    "CGPA": 6.84
+  },
+  {
+    "NO": 425,
+    "NAME": "Utkarsh H Nimje",
+    "ENROLLMENT_NO": "BT24ECE075",
+    "CHEM_SEM": 7.1,
+    "PHY_SEM": 6.57,
+    "CGPA": 6.84
+  },
+  {
+    "NO": 426,
+    "NAME": "Akshay  Dubey",
+    "ENROLLMENT_NO": "BT24CIV068",
+    "CHEM_SEM": 6.33,
+    "PHY_SEM": 7.27,
+    "CGPA": 6.81
+  },
+  {
+    "NO": 427,
+    "NAME": "Saket  Kumar  Dubey",
+    "ENROLLMENT_NO": "BT24CIV026",
+    "CHEM_SEM": 6.66,
+    "PHY_SEM": 6.95,
+    "CGPA": 6.81
+  },
+  {
+    "NO": 428,
+    "NAME": "Abhijeet  Kumar",
+    "ENROLLMENT_NO": "BT24CIV082",
+    "CHEM_SEM": 6.75,
+    "PHY_SEM": 6.86,
+    "CGPA": 6.81
+  },
+  {
+    "NO": 429,
+    "NAME": "Jangid  Ritika  Rajesh",
+    "ENROLLMENT_NO": "BT24MEC037",
+    "CHEM_SEM": 6.17,
+    "PHY_SEM": 7.48,
+    "CGPA": 6.81
+  },
+  {
+    "NO": 430,
+    "NAME": "Kadam  Mahesh  Shesherao",
+    "ENROLLMENT_NO": "BT24CME066",
+    "CHEM_SEM": 6.79,
+    "PHY_SEM": 7,
+    "CGPA": 6.81
+  },
+  {
+    "NO": 431,
+    "NAME": "Kartik  Rajesh  Yadav",
+    "ENROLLMENT_NO": "BT24CME037",
+    "CHEM_SEM": 7.04,
+    "PHY_SEM": 6.59,
+    "CGPA": 6.81
+  },
+  {
+    "NO": 432,
+    "NAME": "Pawar  Utkarsh  Rajmal",
+    "ENROLLMENT_NO": "BT24CME076",
+    "CHEM_SEM": 7.13,
+    "PHY_SEM": 6.5,
+    "CGPA": 6.81
+  },
+  {
+    "NO": 433,
+    "NAME": "Koushik Belwanshi",
+    "ENROLLMENT_NO": "BT24ECE022",
+    "CHEM_SEM": 6.95,
+    "PHY_SEM": 6.67,
+    "CGPA": 6.81
+  },
+  {
+    "NO": 434,
+    "NAME": "Aditya  Sahu",
+    "ENROLLMENT_NO": "BT24CSE042",
+    "CHEM_SEM": 7.31,
+    "PHY_SEM": 6.29,
+    "CGPA": 6.81
+  },
+  {
+    "NO": 435,
+    "NAME": "Dhole  Yash  Vinayak",
+    "ENROLLMENT_NO": "BT24MME041",
+    "CHEM_SEM": 7,
+    "PHY_SEM": 6.59,
+    "CGPA": 6.79
+  },
+  {
+    "NO": 436,
+    "NAME": "Deshmukh  Prathmesh  Vilas",
+    "ENROLLMENT_NO": "BT24CIV093",
+    "CHEM_SEM": 6.81,
+    "PHY_SEM": 6.77,
+    "CGPA": 6.79
+  },
+  {
+    "NO": 437,
+    "NAME": "Vishwajeet  Vaibhav  Patil",
+    "ENROLLMENT_NO": "BT24MEC079",
+    "CHEM_SEM": 6.77,
+    "PHY_SEM": 6.81,
+    "CGPA": 6.79
+  },
+  {
+    "NO": 438,
+    "NAME": "Arpita  Yogesh  Kattul",
+    "ENROLLMENT_NO": "BT24EEE099",
+    "CHEM_SEM": 7.09,
+    "PHY_SEM": 6.48,
+    "CGPA": 6.79
+  },
+  {
+    "NO": 439,
+    "NAME": "Abhinav  Emmadi",
+    "ENROLLMENT_NO": "BT24MME103",
+    "CHEM_SEM": 6.67,
+    "PHY_SEM": 6.86,
+    "CGPA": 6.77
+  },
+  {
+    "NO": 440,
+    "NAME": "Shantanu  Įaxman  Mutyalwar",
+    "ENROLLMENT_NO": "BT24MME014",
+    "CHEM_SEM": 6.67,
+    "PHY_SEM": 6.86,
+    "CGPA": 6.77
+  },
+  {
+    "NO": 441,
+    "NAME": "Deshmukh  Pranil  Sunil",
+    "ENROLLMENT_NO": "BT24CIV059",
+    "CHEM_SEM": 6.2,
+    "PHY_SEM": 7.32,
+    "CGPA": 6.77
+  },
+  {
+    "NO": 442,
+    "NAME": "Maddela  Sai  Srijith",
+    "ENROLLMENT_NO": "BT24MEC108",
+    "CHEM_SEM": 6.82,
+    "PHY_SEM": 6.71,
+    "CGPA": 6.77
+  },
+  {
+    "NO": 443,
+    "NAME": "Prashant  Kumar",
+    "ENROLLMENT_NO": "BT24EEE102",
+    "CHEM_SEM": 6.6,
+    "PHY_SEM": 6.95,
+    "CGPA": 6.77
+  },
+  {
+    "NO": 444,
+    "NAME": "Sarang N Nambiar",
+    "ENROLLMENT_NO": "BT24MIN036",
+    "CHEM_SEM": 7.13,
+    "PHY_SEM": 6.36,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 445,
+    "NAME": "K  Alekhya",
+    "ENROLLMENT_NO": "BT24MME064",
+    "CHEM_SEM": 6.75,
+    "PHY_SEM": 6.73,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 446,
+    "NAME": "Mayank  Valmiki",
+    "ENROLLMENT_NO": "BT24MME061",
+    "CHEM_SEM": 6.99,
+    "PHY_SEM": 6.5,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 447,
+    "NAME": "Kambhampati  Chandra  Harsha",
+    "ENROLLMENT_NO": "BT24MME011",
+    "CHEM_SEM": 7.04,
+    "PHY_SEM": 6.45,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 448,
+    "NAME": "Deshpande  Sanket  Kiran",
+    "ENROLLMENT_NO": "BT24MME058",
+    "CHEM_SEM": 7.37,
+    "PHY_SEM": 6.14,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 449,
+    "NAME": "Rai  Vidhi  Vikas",
+    "ENROLLMENT_NO": "BT24MME053",
+    "CHEM_SEM": 7.52,
+    "PHY_SEM": 6,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 450,
+    "NAME": "Bigala  Harshini",
+    "ENROLLMENT_NO": "BT24CIV100",
+    "CHEM_SEM": 6.71,
+    "PHY_SEM": 6.77,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 451,
+    "NAME": "Įate  Swara  Gajanan",
+    "ENROLLMENT_NO": "BT24MEC034",
+    "CHEM_SEM": 6.4,
+    "PHY_SEM": 7.1,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 452,
+    "NAME": "Baviskar  Aditya  Deepak",
+    "ENROLLMENT_NO": "BT24MEC014",
+    "CHEM_SEM": 6.76,
+    "PHY_SEM": 6.71,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 453,
+    "NAME": "Subodh  Oraon",
+    "ENROLLMENT_NO": "BT24EEE028",
+    "CHEM_SEM": 5.95,
+    "PHY_SEM": 7.57,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 454,
+    "NAME": "Gandham  Sudeep",
+    "ENROLLMENT_NO": "BT24EEE092",
+    "CHEM_SEM": 6.67,
+    "PHY_SEM": 6.81,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 455,
+    "NAME": "Gaikwad  Harshvardhan  Santosh",
+    "ENROLLMENT_NO": "BT24EEE043",
+    "CHEM_SEM": 7.04,
+    "PHY_SEM": 6.43,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 456,
+    "NAME": "Saiesh Manish Kadam",
+    "ENROLLMENT_NO": "BT24ECE009",
+    "CHEM_SEM": 6.45,
+    "PHY_SEM": 7.05,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 457,
+    "NAME": "Kakumani  Sri  Poojitha",
+    "ENROLLMENT_NO": "BT24CSE031",
+    "CHEM_SEM": 5.72,
+    "PHY_SEM": 7.81,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 458,
+    "NAME": "Aaryan  Rathod",
+    "ENROLLMENT_NO": "BT24CSE009",
+    "CHEM_SEM": 6.4,
+    "PHY_SEM": 7.1,
+    "CGPA": 6.74
+  },
+  {
+    "NO": 459,
+    "NAME": "Shivarkar  Prajwal  Dilip",
+    "ENROLLMENT_NO": "BT24MME037",
+    "CHEM_SEM": 7.05,
+    "PHY_SEM": 6.41,
+    "CGPA": 6.72
+  },
+  {
+    "NO": 460,
+    "NAME": "Shikha  Arora",
+    "ENROLLMENT_NO": "BT24MME074",
+    "CHEM_SEM": 7.19,
+    "PHY_SEM": 6.27,
+    "CGPA": 6.72
+  },
+  {
+    "NO": 461,
+    "NAME": "Harsh  Prajapat",
+    "ENROLLMENT_NO": "BT24CIV101",
+    "CHEM_SEM": 6.28,
+    "PHY_SEM": 7.14,
+    "CGPA": 6.72
+  },
+  {
+    "NO": 462,
+    "NAME": "Jadhav  Chaitrali  Sardar",
+    "ENROLLMENT_NO": "BT24CIV023",
+    "CHEM_SEM": 6.81,
+    "PHY_SEM": 6.64,
+    "CGPA": 6.72
+  },
+  {
+    "NO": 463,
+    "NAME": "Bugata  Rakesh",
+    "ENROLLMENT_NO": "BT24MME082",
+    "CHEM_SEM": 7.2,
+    "PHY_SEM": 6.23,
+    "CGPA": 6.7
+  },
+  {
+    "NO": 464,
+    "NAME": "Byri  Vanitha",
+    "ENROLLMENT_NO": "BT24MEC010",
+    "CHEM_SEM": 6.46,
+    "PHY_SEM": 6.95,
+    "CGPA": 6.7
+  },
+  {
+    "NO": 465,
+    "NAME": "Sankuratri  Yaswanth",
+    "ENROLLMENT_NO": "BT24EEE094",
+    "CHEM_SEM": 7.19,
+    "PHY_SEM": 6.19,
+    "CGPA": 6.7
+  },
+  {
+    "NO": 466,
+    "NAME": "Meshram Ayush Milind",
+    "ENROLLMENT_NO": "BT24ECE021",
+    "CHEM_SEM": 6.5,
+    "PHY_SEM": 6.9,
+    "CGPA": 6.7
+  },
+  {
+    "NO": 467,
+    "NAME": "Sanket Rajendra Kumar Uike",
+    "ENROLLMENT_NO": "BT24ECE045",
+    "CHEM_SEM": 6.6,
+    "PHY_SEM": 6.81,
+    "CGPA": 6.7
+  },
+  {
+    "NO": 468,
+    "NAME": "Dahat  Ansh  Vinay",
+    "ENROLLMENT_NO": "BT24CSE038",
+    "CHEM_SEM": 7.67,
+    "PHY_SEM": 5.67,
+    "CGPA": 6.69
+  },
+  {
+    "NO": 469,
+    "NAME": "Bhukya Lokesh",
+    "ENROLLMENT_NO": "BT24MIN001",
+    "CHEM_SEM": 6.56,
+    "PHY_SEM": 6.77,
+    "CGPA": 6.67
+  },
+  {
+    "NO": 470,
+    "NAME": "Vodapally Harini",
+    "ENROLLMENT_NO": "BT24MIN006",
+    "CHEM_SEM": 6.85,
+    "PHY_SEM": 6.5,
+    "CGPA": 6.67
+  },
+  {
+    "NO": 471,
+    "NAME": "Anurag  Srivastava",
+    "ENROLLMENT_NO": "BT24MME105",
+    "CHEM_SEM": 7.32,
+    "PHY_SEM": 6.05,
+    "CGPA": 6.67
+  },
+  {
+    "NO": 472,
+    "NAME": "Rodrigues  Israel  Shalon  Edgar",
+    "ENROLLMENT_NO": "BT24CIV086",
+    "CHEM_SEM": 6.04,
+    "PHY_SEM": 7.27,
+    "CGPA": 6.67
+  },
+  {
+    "NO": 473,
+    "NAME": "Adarsh  Jaiswal",
+    "ENROLLMENT_NO": "BT24CIV039",
+    "CHEM_SEM": 6.94,
+    "PHY_SEM": 6.41,
+    "CGPA": 6.67
+  },
+  {
+    "NO": 474,
+    "NAME": "Dhawal  Choudhary",
+    "ENROLLMENT_NO": "BT24MEC052",
+    "CHEM_SEM": 5.99,
+    "PHY_SEM": 7.38,
+    "CGPA": 6.67
+  },
+  {
+    "NO": 475,
+    "NAME": "Abhay  Pratap  Chaudhary",
+    "ENROLLMENT_NO": "BT24MEC013",
+    "CHEM_SEM": 6.76,
+    "PHY_SEM": 6.57,
+    "CGPA": 6.67
+  },
+  {
+    "NO": 476,
+    "NAME": "Arya  Meshram",
+    "ENROLLMENT_NO": "BT24EEE062",
+    "CHEM_SEM": 6.95,
+    "PHY_SEM": 6.38,
+    "CGPA": 6.67
+  },
+  {
+    "NO": 477,
+    "NAME": "Gadhe Srishanth",
+    "ENROLLMENT_NO": "BT24MIN026",
+    "CHEM_SEM": 6.95,
+    "PHY_SEM": 6.36,
+    "CGPA": 6.65
+  },
+  {
+    "NO": 478,
+    "NAME": "Takwale  Arya  Anil",
+    "ENROLLMENT_NO": "BT24CME007",
+    "CHEM_SEM": 6.81,
+    "PHY_SEM": 6.5,
+    "CGPA": 6.65
+  },
+  {
+    "NO": 479,
+    "NAME": "Gaddam  Shivani  Reddy",
+    "ENROLLMENT_NO": "BT24CME058",
+    "CHEM_SEM": 6.72,
+    "PHY_SEM": 6,
+    "CGPA": 6.65
+  },
+  {
+    "NO": 480,
+    "NAME": "Madiya  Ali",
+    "ENROLLMENT_NO": "BT24MME096",
+    "CHEM_SEM": 6.39,
+    "PHY_SEM": 6.86,
+    "CGPA": 6.63
+  },
+  {
+    "NO": 481,
+    "NAME": "Shree  Shashikant  Patil",
+    "ENROLLMENT_NO": "BT24MME054",
+    "CHEM_SEM": 7.53,
+    "PHY_SEM": 5.77,
+    "CGPA": 6.63
+  },
+  {
+    "NO": 482,
+    "NAME": "Annu  Kumari  Meena",
+    "ENROLLMENT_NO": "BT24MEC047",
+    "CHEM_SEM": 6.64,
+    "PHY_SEM": 6.62,
+    "CGPA": 6.63
+  },
+  {
+    "NO": 483,
+    "NAME": "Tulagapu  Dinesh",
+    "ENROLLMENT_NO": "BT24MEC074",
+    "CHEM_SEM": 6.73,
+    "PHY_SEM": 6.52,
+    "CGPA": 6.63
+  },
+  {
+    "NO": 484,
+    "NAME": "Gokul T V",
+    "ENROLLMENT_NO": "BT24MIN043",
+    "CHEM_SEM": 6.37,
+    "PHY_SEM": 6.82,
+    "CGPA": 6.6
+  },
+  {
+    "NO": 485,
+    "NAME": "Ishika Singh",
+    "ENROLLMENT_NO": "BT24MIN033",
+    "CHEM_SEM": 6.9,
+    "PHY_SEM": 6.32,
+    "CGPA": 6.6
+  },
+  {
+    "NO": 486,
+    "NAME": "Challa  Sudiksha",
+    "ENROLLMENT_NO": "BT24MME028",
+    "CHEM_SEM": 6.94,
+    "PHY_SEM": 6.27,
+    "CGPA": 6.6
+  },
+  {
+    "NO": 487,
+    "NAME": "Watthi  Kanchan  Avinash",
+    "ENROLLMENT_NO": "BT24CIV042",
+    "CHEM_SEM": 6.56,
+    "PHY_SEM": 6.64,
+    "CGPA": 6.6
+  },
+  {
+    "NO": 488,
+    "NAME": "Khan  Zaki  Ullah  Niyamat  Ullah",
+    "ENROLLMENT_NO": "BT24CIV029",
+    "CHEM_SEM": 7.13,
+    "PHY_SEM": 6.09,
+    "CGPA": 6.6
+  },
+  {
+    "NO": 489,
+    "NAME": "Juttukonda  Abhinav  Mithraa",
+    "ENROLLMENT_NO": "BT24MEC070",
+    "CHEM_SEM": 6.45,
+    "PHY_SEM": 6.76,
+    "CGPA": 6.6
+  },
+  {
+    "NO": 490,
+    "NAME": "Madireddy  Bhavani",
+    "ENROLLMENT_NO": "BT24MEC103",
+    "CHEM_SEM": 6.72,
+    "PHY_SEM": 6.48,
+    "CGPA": 6.6
+  },
+  {
+    "NO": 491,
+    "NAME": "Parekh  Moulik  Sandip",
+    "ENROLLMENT_NO": "BT24MEC078",
+    "CHEM_SEM": 6.81,
+    "PHY_SEM": 6.38,
+    "CGPA": 6.6
+  },
+  {
+    "NO": 492,
+    "NAME": "Joshi  Pranamya  Mahesh",
+    "ENROLLMENT_NO": "BT24CSE053",
+    "CHEM_SEM": 6.72,
+    "PHY_SEM": 5,
+    "CGPA": 6.6
+  },
+  {
+    "NO": 493,
+    "NAME": "Giri  Abhay  Bharat",
+    "ENROLLMENT_NO": "BT24CIV019",
+    "CHEM_SEM": 7.24,
+    "PHY_SEM": 5.95,
+    "CGPA": 6.58
+  },
+  {
+    "NO": 494,
+    "NAME": "Nikam  Mayur  Bharat",
+    "ENROLLMENT_NO": "BT24MEC024",
+    "CHEM_SEM": 6.13,
+    "PHY_SEM": 7.05,
+    "CGPA": 6.58
+  },
+  {
+    "NO": 495,
+    "NAME": "Atram  Abhinav  Arvind",
+    "ENROLLMENT_NO": "BT24CSE049",
+    "CHEM_SEM": 6.63,
+    "PHY_SEM": 6.52,
+    "CGPA": 6.58
+  },
+  {
+    "NO": 496,
+    "NAME": "Chaudhari  Dilesh  Chatrugan",
+    "ENROLLMENT_NO": "BT24CIV036",
+    "CHEM_SEM": 7.05,
+    "PHY_SEM": 6.09,
+    "CGPA": 6.56
+  },
+  {
+    "NO": 497,
+    "NAME": "Shivam  Kumar  Upadhyay",
+    "ENROLLMENT_NO": "BT24CIV071",
+    "CHEM_SEM": 6.69,
+    "PHY_SEM": 6,
+    "CGPA": 6.56
+  },
+  {
+    "NO": 498,
+    "NAME": "Arnav  Agrawal",
+    "ENROLLMENT_NO": "BT24MEC084",
+    "CHEM_SEM": 6.5,
+    "PHY_SEM": 6.62,
+    "CGPA": 6.56
+  },
+  {
+    "NO": 499,
+    "NAME": "Pradyumn  Meena",
+    "ENROLLMENT_NO": "BT24EEE004",
+    "CHEM_SEM": 5.91,
+    "PHY_SEM": 7.24,
+    "CGPA": 6.56
+  },
+  {
+    "NO": 500,
+    "NAME": "Mangutkar Sahil Suresh",
+    "ENROLLMENT_NO": "BT24ECE092",
+    "CHEM_SEM": 5.96,
+    "PHY_SEM": 7.19,
+    "CGPA": 6.56
+  },
+  {
+    "NO": 501,
+    "NAME": "Moon Takshak Sanjay",
+    "ENROLLMENT_NO": "BT24ECE043",
+    "CHEM_SEM": 6.82,
+    "PHY_SEM": 6.29,
+    "CGPA": 6.56
+  },
+  {
+    "NO": 502,
+    "NAME": "Nandan Ponnacham Veedu Rajesh",
+    "ENROLLMENT_NO": "BT24ECE002",
+    "CHEM_SEM": 7.14,
+    "PHY_SEM": 5.95,
+    "CGPA": 6.56
+  },
+  {
+    "NO": 503,
+    "NAME": "Bavadhane  Sangram  Prakash",
+    "ENROLLMENT_NO": "BT24CSE091",
+    "CHEM_SEM": 6.64,
+    "PHY_SEM": 6.48,
+    "CGPA": 6.56
+  },
+  {
+    "NO": 504,
+    "NAME": "Sharma Rajat Pawan",
+    "ENROLLMENT_NO": "BT24MIN047",
+    "CHEM_SEM": 6.42,
+    "PHY_SEM": 6.64,
+    "CGPA": 6.53
+  },
+  {
+    "NO": 505,
+    "NAME": "Banoth Bunny",
+    "ENROLLMENT_NO": "BT24MIN008",
+    "CHEM_SEM": 6.47,
+    "PHY_SEM": 6.59,
+    "CGPA": 6.53
+  },
+  {
+    "NO": 506,
+    "NAME": "Ghule  Swarnit  Pravin",
+    "ENROLLMENT_NO": "BT24CIV066",
+    "CHEM_SEM": 6.28,
+    "PHY_SEM": 6.77,
+    "CGPA": 6.53
+  },
+  {
+    "NO": 507,
+    "NAME": "Ambule  Mahak  Sunilkumar",
+    "ENROLLMENT_NO": "BT24CME040",
+    "CHEM_SEM": 6.8,
+    "PHY_SEM": 6.27,
+    "CGPA": 6.53
+  },
+  {
+    "NO": 508,
+    "NAME": "Shivansh  Singh",
+    "ENROLLMENT_NO": "BT24CIV073",
+    "CHEM_SEM": 6.32,
+    "PHY_SEM": 6.73,
+    "CGPA": 6.53
+  },
+  {
+    "NO": 509,
+    "NAME": "Tamboli  Juned  Rafik",
+    "ENROLLMENT_NO": "BT24EEE103",
+    "CHEM_SEM": 6.31,
+    "PHY_SEM": 6.76,
+    "CGPA": 6.53
+  },
+  {
+    "NO": 510,
+    "NAME": "Syed  Murtaza  Hasan  Naqvi",
+    "ENROLLMENT_NO": "BT24MEC023",
+    "CHEM_SEM": 6.41,
+    "PHY_SEM": 6.62,
+    "CGPA": 6.51
+  },
+  {
+    "NO": 511,
+    "NAME": "Dinesh  Kumar  Bhakar",
+    "ENROLLMENT_NO": "BT24MEC073",
+    "CHEM_SEM": 6.59,
+    "PHY_SEM": 6.43,
+    "CGPA": 6.51
+  },
+  {
+    "NO": 512,
+    "NAME": "Tavva  Vihaan",
+    "ENROLLMENT_NO": "BT24EEE002",
+    "CHEM_SEM": 6.86,
+    "PHY_SEM": 6.14,
+    "CGPA": 6.51
+  },
+  {
+    "NO": 513,
+    "NAME": "Sanapala Tarun",
+    "ENROLLMENT_NO": "BT24ECE033",
+    "CHEM_SEM": 5.91,
+    "PHY_SEM": 7.14,
+    "CGPA": 6.51
+  },
+  {
+    "NO": 514,
+    "NAME": "Adhikari Omkar Mahesh",
+    "ENROLLMENT_NO": "BT24ECE107",
+    "CHEM_SEM": 6.04,
+    "PHY_SEM": 7,
+    "CGPA": 6.51
+  },
+  {
+    "NO": 515,
+    "NAME": "Pimple Atharva Ramesh",
+    "ENROLLMENT_NO": "BT24MIN010",
+    "CHEM_SEM": 6.48,
+    "PHY_SEM": 6.5,
+    "CGPA": 6.49
+  },
+  {
+    "NO": 516,
+    "NAME": "Agrawal  Chahak  Bhupendrakumar",
+    "ENROLLMENT_NO": "BT24MME005",
+    "CHEM_SEM": 6.86,
+    "PHY_SEM": 6.14,
+    "CGPA": 6.49
+  },
+  {
+    "NO": 517,
+    "NAME": "Gondaliya  Dhruvin  Vipulbhai",
+    "ENROLLMENT_NO": "BT24CME100",
+    "CHEM_SEM": 6.44,
+    "PHY_SEM": 7,
+    "CGPA": 6.49
+  },
+  {
+    "NO": 518,
+    "NAME": "Vipin  Chaudhary",
+    "ENROLLMENT_NO": "BT24CIV063",
+    "CHEM_SEM": 6.96,
+    "PHY_SEM": 6.05,
+    "CGPA": 6.49
+  },
+  {
+    "NO": 519,
+    "NAME": "Priyanshu  Bhagat",
+    "ENROLLMENT_NO": "BT24MEC016",
+    "CHEM_SEM": 6.18,
+    "PHY_SEM": 6.81,
+    "CGPA": 6.49
+  },
+  {
+    "NO": 520,
+    "NAME": "Myakala  Venkat  Reddy",
+    "ENROLLMENT_NO": "BT24CSE024",
+    "CHEM_SEM": 6.09,
+    "PHY_SEM": 6.9,
+    "CGPA": 6.49
+  },
+  {
+    "NO": 521,
+    "NAME": "Ankit  Raj",
+    "ENROLLMENT_NO": "BT24CME109",
+    "CHEM_SEM": 6.82,
+    "PHY_SEM": 6.14,
+    "CGPA": 6.47
+  },
+  {
+    "NO": 522,
+    "NAME": "Swatantra  Gupta",
+    "ENROLLMENT_NO": "BT24CIV056",
+    "CHEM_SEM": 6.72,
+    "PHY_SEM": 6.23,
+    "CGPA": 6.47
+  },
+  {
+    "NO": 523,
+    "NAME": "Hariyani  Gauri  Įovekumar",
+    "ENROLLMENT_NO": "BT24MEC094",
+    "CHEM_SEM": 6.05,
+    "PHY_SEM": 6.9,
+    "CGPA": 6.47
+  },
+  {
+    "NO": 524,
+    "NAME": "M  Venkatesh",
+    "ENROLLMENT_NO": "BT24EEE098",
+    "CHEM_SEM": 6.1,
+    "PHY_SEM": 6.86,
+    "CGPA": 6.47
+  },
+  {
+    "NO": 525,
+    "NAME": "Divyanshu Shahare",
+    "ENROLLMENT_NO": "BT24MIN011",
+    "CHEM_SEM": 6.76,
+    "PHY_SEM": 6.14,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 526,
+    "NAME": "Sarvagya  Gaurav   Bakliwal",
+    "ENROLLMENT_NO": "BT24MME029",
+    "CHEM_SEM": 6.42,
+    "PHY_SEM": 6.45,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 527,
+    "NAME": "Sparya",
+    "ENROLLMENT_NO": "BT24MME091",
+    "CHEM_SEM": 6.52,
+    "PHY_SEM": 6.36,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 528,
+    "NAME": "Jare  Siddhant  Ashok",
+    "ENROLLMENT_NO": "BT24CME026",
+    "CHEM_SEM": 6.57,
+    "PHY_SEM": 6.32,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 529,
+    "NAME": "Pujari  Sanket  Vijaykumar",
+    "ENROLLMENT_NO": "BT24CIV062",
+    "CHEM_SEM": 6.52,
+    "PHY_SEM": 6.36,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 530,
+    "NAME": "Awale  Ayush  Dinesh",
+    "ENROLLMENT_NO": "BT24CME032",
+    "CHEM_SEM": 6.81,
+    "PHY_SEM": 6.09,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 531,
+    "NAME": "Humane  Rashi  Pramod",
+    "ENROLLMENT_NO": "BT24MEC012",
+    "CHEM_SEM": 6.36,
+    "PHY_SEM": 6.52,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 532,
+    "NAME": "Raut  Atharv  Gajanan",
+    "ENROLLMENT_NO": "BT24MEC061",
+    "CHEM_SEM": 6.81,
+    "PHY_SEM": 6.05,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 533,
+    "NAME": "Venkat  Surendra  P",
+    "ENROLLMENT_NO": "BT24MEC018",
+    "CHEM_SEM": 7.22,
+    "PHY_SEM": 5.62,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 534,
+    "NAME": "Naziya  Rukiya",
+    "ENROLLMENT_NO": "BT24EEE001",
+    "CHEM_SEM": 6.27,
+    "PHY_SEM": 6.62,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 535,
+    "NAME": "Kadbe  Sharvil  Ramrao",
+    "ENROLLMENT_NO": "BT24EEE106",
+    "CHEM_SEM": 6.63,
+    "PHY_SEM": 6.24,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 536,
+    "NAME": "Piyush  Manhar",
+    "ENROLLMENT_NO": "BT24EEE087",
+    "CHEM_SEM": 6.68,
+    "PHY_SEM": 6.19,
+    "CGPA": 6.44
+  },
+  {
+    "NO": 537,
+    "NAME": "Mali  Yash  Dhiraj",
+    "ENROLLMENT_NO": "BT24MME001",
+    "CHEM_SEM": 6.62,
+    "PHY_SEM": 6.23,
+    "CGPA": 6.42
+  },
+  {
+    "NO": 538,
+    "NAME": "Mohammad  Shaif  Alam",
+    "ENROLLMENT_NO": "BT24MME009",
+    "CHEM_SEM": 6.96,
+    "PHY_SEM": 5.91,
+    "CGPA": 6.42
+  },
+  {
+    "NO": 539,
+    "NAME": "Ega Vikram",
+    "ENROLLMENT_NO": "BT24ECE058",
+    "CHEM_SEM": 6.82,
+    "PHY_SEM": 6,
+    "CGPA": 6.42
+  },
+  {
+    "NO": 540,
+    "NAME": "Karia  Meet  Shreyas",
+    "ENROLLMENT_NO": "BT24CSE003",
+    "CHEM_SEM": 6.37,
+    "PHY_SEM": 6.48,
+    "CGPA": 6.42
+  },
+  {
+    "NO": 541,
+    "NAME": "Pranjal  Chandrawanshi",
+    "ENROLLMENT_NO": "BT24CIV107",
+    "CHEM_SEM": 6.54,
+    "PHY_SEM": 5,
+    "CGPA": 6.4
+  },
+  {
+    "NO": 542,
+    "NAME": "Nipu  Kumar  Ranjan",
+    "ENROLLMENT_NO": "BT24CME061",
+    "CHEM_SEM": 6.87,
+    "PHY_SEM": 5.95,
+    "CGPA": 6.4
+  },
+  {
+    "NO": 543,
+    "NAME": "Twinkle  Choudhary",
+    "ENROLLMENT_NO": "BT24MEC020",
+    "CHEM_SEM": 6.42,
+    "PHY_SEM": 6.38,
+    "CGPA": 6.4
+  },
+  {
+    "NO": 544,
+    "NAME": "Pooja M Bajulge",
+    "ENROLLMENT_NO": "BT24ECE050",
+    "CHEM_SEM": 6.28,
+    "PHY_SEM": 6.52,
+    "CGPA": 6.4
+  },
+  {
+    "NO": 545,
+    "NAME": "Keshw  Swami",
+    "ENROLLMENT_NO": "BT24MME077",
+    "CHEM_SEM": 7.42,
+    "PHY_SEM": 5.36,
+    "CGPA": 6.37
+  },
+  {
+    "NO": 546,
+    "NAME": "Navghare  Vedika  Rameshrao",
+    "ENROLLMENT_NO": "BT24CIV025",
+    "CHEM_SEM": 6.28,
+    "PHY_SEM": 6.45,
+    "CGPA": 6.37
+  },
+  {
+    "NO": 547,
+    "NAME": "Himansu  Barua",
+    "ENROLLMENT_NO": "BT24CME019",
+    "CHEM_SEM": 6.52,
+    "PHY_SEM": 6.23,
+    "CGPA": 6.37
+  },
+  {
+    "NO": 548,
+    "NAME": "Shantanu  Arvind  Bilaskar",
+    "ENROLLMENT_NO": "BT24MEC039",
+    "CHEM_SEM": 6.77,
+    "PHY_SEM": 5.95,
+    "CGPA": 6.37
+  },
+  {
+    "NO": 549,
+    "NAME": "Shivraj  Deepak  Parnate",
+    "ENROLLMENT_NO": "BT24MEC009",
+    "CHEM_SEM": 6.91,
+    "PHY_SEM": 5.81,
+    "CGPA": 6.37
+  },
+  {
+    "NO": 550,
+    "NAME": "Nishika Ajay Moolya",
+    "ENROLLMENT_NO": "BT24ECE005",
+    "CHEM_SEM": 6.22,
+    "PHY_SEM": 6.52,
+    "CGPA": 6.37
+  },
+  {
+    "NO": 551,
+    "NAME": "Pawar  Pratiksha  Ankush",
+    "ENROLLMENT_NO": "BT24CSE048",
+    "CHEM_SEM": 6.41,
+    "PHY_SEM": 6.33,
+    "CGPA": 6.37
+  },
+  {
+    "NO": 552,
+    "NAME": "Jha  Nikheel  Raju",
+    "ENROLLMENT_NO": "BT24MME050",
+    "CHEM_SEM": 6.49,
+    "PHY_SEM": 5,
+    "CGPA": 6.35
+  },
+  {
+    "NO": 553,
+    "NAME": "Abhishek  Poonia",
+    "ENROLLMENT_NO": "BT24CME090",
+    "CHEM_SEM": 6.43,
+    "PHY_SEM": 6.27,
+    "CGPA": 6.35
+  },
+  {
+    "NO": 554,
+    "NAME": "Maruturi  Preethisri",
+    "ENROLLMENT_NO": "BT24EEE026",
+    "CHEM_SEM": 5.68,
+    "PHY_SEM": 7.05,
+    "CGPA": 6.35
+  },
+  {
+    "NO": 555,
+    "NAME": "Kushagra  Singh  Kushwah",
+    "ENROLLMENT_NO": "BT24CSE040",
+    "CHEM_SEM": 7.14,
+    "PHY_SEM": 5.52,
+    "CGPA": 6.35
+  },
+  {
+    "NO": 556,
+    "NAME": "Nagendra  Kumar",
+    "ENROLLMENT_NO": "BT24MME002",
+    "CHEM_SEM": 6.58,
+    "PHY_SEM": 6.09,
+    "CGPA": 6.33
+  },
+  {
+    "NO": 557,
+    "NAME": "Aditya  Sanjeev  Patil",
+    "ENROLLMENT_NO": "BT24MME038",
+    "CHEM_SEM": 6.91,
+    "PHY_SEM": 5.77,
+    "CGPA": 6.33
+  },
+  {
+    "NO": 558,
+    "NAME": "Rai   Aryan   Janardan",
+    "ENROLLMENT_NO": "BT24CIV051",
+    "CHEM_SEM": 7.63,
+    "PHY_SEM": 5.09,
+    "CGPA": 6.33
+  },
+  {
+    "NO": 559,
+    "NAME": "Mali  Prathmesh  Ankush",
+    "ENROLLMENT_NO": "BT24CME057",
+    "CHEM_SEM": 6.2,
+    "PHY_SEM": 6.45,
+    "CGPA": 6.33
+  },
+  {
+    "NO": 560,
+    "NAME": "Mishra  Devesh  Jayprakash",
+    "ENROLLMENT_NO": "BT24CME035",
+    "CHEM_SEM": 6.68,
+    "PHY_SEM": 6,
+    "CGPA": 6.33
+  },
+  {
+    "NO": 561,
+    "NAME": "Adarsh  Prasad",
+    "ENROLLMENT_NO": "BT24MEC060",
+    "CHEM_SEM": 6.05,
+    "PHY_SEM": 6.62,
+    "CGPA": 6.33
+  },
+  {
+    "NO": 562,
+    "NAME": "Ujjwal  Raj",
+    "ENROLLMENT_NO": "BT24MME101",
+    "CHEM_SEM": 6.85,
+    "PHY_SEM": 5.77,
+    "CGPA": 6.3
+  },
+  {
+    "NO": 563,
+    "NAME": "Rahul  Dnyaneshwar  Yamgar",
+    "ENROLLMENT_NO": "BT24CME059",
+    "CHEM_SEM": 6.85,
+    "PHY_SEM": 5.77,
+    "CGPA": 6.3
+  },
+  {
+    "NO": 564,
+    "NAME": "Arali  Sagar  Mallikarjun",
+    "ENROLLMENT_NO": "BT24CME043",
+    "CHEM_SEM": 6.85,
+    "PHY_SEM": 5.77,
+    "CGPA": 6.3
+  },
+  {
+    "NO": 565,
+    "NAME": "Kasireddy  Bharath  Kumar  Reddy",
+    "ENROLLMENT_NO": "BT24CSE092",
+    "CHEM_SEM": 6.72,
+    "PHY_SEM": 5.86,
+    "CGPA": 6.3
+  },
+  {
+    "NO": 566,
+    "NAME": "Ayushi  Chaudhary",
+    "ENROLLMENT_NO": "BT24MME004",
+    "CHEM_SEM": 6.21,
+    "PHY_SEM": 7,
+    "CGPA": 6.28
+  },
+  {
+    "NO": 567,
+    "NAME": "Karan  Kumar  Arya",
+    "ENROLLMENT_NO": "BT24CIV018",
+    "CHEM_SEM": 6.14,
+    "PHY_SEM": 6.41,
+    "CGPA": 6.28
+  },
+  {
+    "NO": 568,
+    "NAME": "Medewad  Atharv  Shankar",
+    "ENROLLMENT_NO": "BT24CIV015",
+    "CHEM_SEM": 6.57,
+    "PHY_SEM": 6,
+    "CGPA": 6.28
+  },
+  {
+    "NO": 569,
+    "NAME": "Bolle Devaraju",
+    "ENROLLMENT_NO": "BT24ECE064",
+    "CHEM_SEM": 6.05,
+    "PHY_SEM": 6.52,
+    "CGPA": 6.28
+  },
+  {
+    "NO": 570,
+    "NAME": "Shirsath  Tejas  Pravin",
+    "ENROLLMENT_NO": "BT24MME065",
+    "CHEM_SEM": 6.48,
+    "PHY_SEM": 6.05,
+    "CGPA": 6.26
+  },
+  {
+    "NO": 571,
+    "NAME": "Aravind  Reghu  Kumar",
+    "ENROLLMENT_NO": "BT24MEC003",
+    "CHEM_SEM": 6.55,
+    "PHY_SEM": 5.95,
+    "CGPA": 6.26
+  },
+  {
+    "NO": 572,
+    "NAME": "Salunke  Gunish  Sachin",
+    "ENROLLMENT_NO": "BT24MME055",
+    "CHEM_SEM": 6.04,
+    "PHY_SEM": 6.41,
+    "CGPA": 6.23
+  },
+  {
+    "NO": 573,
+    "NAME": "Marturu  Ramya  Sai",
+    "ENROLLMENT_NO": "BT24MME043",
+    "CHEM_SEM": 6.42,
+    "PHY_SEM": 6.05,
+    "CGPA": 6.23
+  },
+  {
+    "NO": 574,
+    "NAME": "Sangeet  Dangi",
+    "ENROLLMENT_NO": "BT24CME044",
+    "CHEM_SEM": 5.9,
+    "PHY_SEM": 6.55,
+    "CGPA": 6.23
+  },
+  {
+    "NO": 575,
+    "NAME": "Kulkarni  Rishit",
+    "ENROLLMENT_NO": "BT24MEC030",
+    "CHEM_SEM": 5.77,
+    "PHY_SEM": 6.71,
+    "CGPA": 6.23
+  },
+  {
+    "NO": 576,
+    "NAME": "Manoj Chauhan",
+    "ENROLLMENT_NO": "BT24ECE103",
+    "CHEM_SEM": 5.95,
+    "PHY_SEM": 6.52,
+    "CGPA": 6.23
+  },
+  {
+    "NO": 577,
+    "NAME": "Bandi  Karthikeya",
+    "ENROLLMENT_NO": "BT24MME075",
+    "CHEM_SEM": 6.24,
+    "PHY_SEM": 6.18,
+    "CGPA": 6.21
+  },
+  {
+    "NO": 578,
+    "NAME": "Peddi  Ashritha",
+    "ENROLLMENT_NO": "BT24CIV096",
+    "CHEM_SEM": 6,
+    "PHY_SEM": 6.41,
+    "CGPA": 6.21
+  },
+  {
+    "NO": 579,
+    "NAME": "Kumbhar  Sanskar  Amit",
+    "ENROLLMENT_NO": "BT24CIV065",
+    "CHEM_SEM": 6.24,
+    "PHY_SEM": 6.18,
+    "CGPA": 6.21
+  },
+  {
+    "NO": 580,
+    "NAME": "Kate  Rugved  Ganesh",
+    "ENROLLMENT_NO": "BT24MEC015",
+    "CHEM_SEM": 5.68,
+    "PHY_SEM": 6.76,
+    "CGPA": 6.21
+  },
+  {
+    "NO": 581,
+    "NAME": "Anshika  Meena",
+    "ENROLLMENT_NO": "BT24CIV006",
+    "CHEM_SEM": 5.82,
+    "PHY_SEM": 6.55,
+    "CGPA": 6.19
+  },
+  {
+    "NO": 582,
+    "NAME": "Shravan  Pravin  Zoad",
+    "ENROLLMENT_NO": "BT24CIV048",
+    "CHEM_SEM": 5.87,
+    "PHY_SEM": 6.5,
+    "CGPA": 6.19
+  },
+  {
+    "NO": 583,
+    "NAME": "Kartik  Rajendra  Ghule",
+    "ENROLLMENT_NO": "BT24CIV009",
+    "CHEM_SEM": 6.34,
+    "PHY_SEM": 6.05,
+    "CGPA": 6.19
+  },
+  {
+    "NO": 584,
+    "NAME": "Rishabh  Singh",
+    "ENROLLMENT_NO": "BT24MEC082",
+    "CHEM_SEM": 6.21,
+    "PHY_SEM": 6,
+    "CGPA": 6.19
+  },
+  {
+    "NO": 585,
+    "NAME": "Kamatkar Aditya Prasad",
+    "ENROLLMENT_NO": "BT24ECE066",
+    "CHEM_SEM": 6.42,
+    "PHY_SEM": 5.9,
+    "CGPA": 6.17
+  },
+  {
+    "NO": 586,
+    "NAME": "Patil  Gunesh  Bhagwan",
+    "ENROLLMENT_NO": "BT24CIV097",
+    "CHEM_SEM": 5.97,
+    "PHY_SEM": 8,
+    "CGPA": 6.16
+  },
+  {
+    "NO": 587,
+    "NAME": "Mundrathi  Manideep",
+    "ENROLLMENT_NO": "BT24MEC045",
+    "CHEM_SEM": 6.31,
+    "PHY_SEM": 6,
+    "CGPA": 6.16
+  },
+  {
+    "NO": 588,
+    "NAME": "Lakshya Sinku",
+    "ENROLLMENT_NO": "BT24MIN005",
+    "CHEM_SEM": 6.14,
+    "PHY_SEM": 6.14,
+    "CGPA": 6.14
+  },
+  {
+    "NO": 589,
+    "NAME": "Sharik  Ali",
+    "ENROLLMENT_NO": "BT24CSE088",
+    "CHEM_SEM": 6.5,
+    "PHY_SEM": 5.76,
+    "CGPA": 6.14
+  },
+  {
+    "NO": 590,
+    "NAME": "Raghav Bansal",
+    "ENROLLMENT_NO": "BT24MIN041",
+    "CHEM_SEM": 6.48,
+    "PHY_SEM": 5.77,
+    "CGPA": 6.12
+  },
+  {
+    "NO": 591,
+    "NAME": "Anshul  Gupta",
+    "ENROLLMENT_NO": "BT24MEC113",
+    "CHEM_SEM": 5.64,
+    "PHY_SEM": 6.62,
+    "CGPA": 6.12
+  },
+  {
+    "NO": 592,
+    "NAME": "Samarth  Gupta",
+    "ENROLLMENT_NO": "BT24MEC065",
+    "CHEM_SEM": 6.1,
+    "PHY_SEM": 6.14,
+    "CGPA": 6.12
+  },
+  {
+    "NO": 593,
+    "NAME": "Malgunde  Vinit  Sunil",
+    "ENROLLMENT_NO": "BT24MEC021",
+    "CHEM_SEM": 6.51,
+    "PHY_SEM": 5.71,
+    "CGPA": 6.12
+  },
+  {
+    "NO": 594,
+    "NAME": "Ankit  Kumar  Ahirwar",
+    "ENROLLMENT_NO": "BT24CSE065",
+    "CHEM_SEM": 6.28,
+    "PHY_SEM": 5.95,
+    "CGPA": 6.12
+  },
+  {
+    "NO": 595,
+    "NAME": "Tushar  Dhobi",
+    "ENROLLMENT_NO": "BT24MME106",
+    "CHEM_SEM": 6.37,
+    "PHY_SEM": 5.82,
+    "CGPA": 6.09
+  },
+  {
+    "NO": 596,
+    "NAME": "Amit  Kumar",
+    "ENROLLMENT_NO": "BT24CIV004",
+    "CHEM_SEM": 6.28,
+    "PHY_SEM": 5.91,
+    "CGPA": 6.09
+  },
+  {
+    "NO": 597,
+    "NAME": "Waghmare  Sourabh  Sanjay",
+    "ENROLLMENT_NO": "BT24MEC033",
+    "CHEM_SEM": 6.4,
+    "PHY_SEM": 5.76,
+    "CGPA": 6.09
+  },
+  {
+    "NO": 598,
+    "NAME": "Suryawanshi  Ritesh  Ramkishan",
+    "ENROLLMENT_NO": "BT24MEC077",
+    "CHEM_SEM": 5.55,
+    "PHY_SEM": 6.62,
+    "CGPA": 6.07
+  },
+  {
+    "NO": 599,
+    "NAME": "Nandru  Amulya",
+    "ENROLLMENT_NO": "BT24CSE121",
+    "CHEM_SEM": 5.64,
+    "PHY_SEM": 6.52,
+    "CGPA": 6.07
+  },
+  {
+    "NO": 600,
+    "NAME": "Depavath  Anil",
+    "ENROLLMENT_NO": "BT24MME035",
+    "CHEM_SEM": 6.2,
+    "PHY_SEM": 5.91,
+    "CGPA": 6.05
+  },
+  {
+    "NO": 601,
+    "NAME": "Dhopte  Pranjali  Dnyanoba",
+    "ENROLLMENT_NO": "BT24CIV099",
+    "CHEM_SEM": 5.91,
+    "PHY_SEM": 6.18,
+    "CGPA": 6.05
+  },
+  {
+    "NO": 602,
+    "NAME": "Swayamdeep  Pradeep  Bansode",
+    "ENROLLMENT_NO": "BT24CIV002",
+    "CHEM_SEM": 6.06,
+    "PHY_SEM": 6,
+    "CGPA": 6.05
+  },
+  {
+    "NO": 603,
+    "NAME": "Ujjwal  Sharma",
+    "ENROLLMENT_NO": "BT24CIV095",
+    "CHEM_SEM": 6.34,
+    "PHY_SEM": 5.77,
+    "CGPA": 6.05
+  },
+  {
+    "NO": 604,
+    "NAME": "Harsh  Pratap  Singh",
+    "ENROLLMENT_NO": "BT24MEC111",
+    "CHEM_SEM": 5.82,
+    "PHY_SEM": 6.29,
+    "CGPA": 6.05
+  },
+  {
+    "NO": 605,
+    "NAME": "Shaunak  Manoj  Munishwar",
+    "ENROLLMENT_NO": "BT24MEC005",
+    "CHEM_SEM": 5.77,
+    "PHY_SEM": 6.29,
+    "CGPA": 6.02
+  },
+  {
+    "NO": 606,
+    "NAME": "Shubham Yadav",
+    "ENROLLMENT_NO": "BT24MIN027",
+    "CHEM_SEM": 5.95,
+    "PHY_SEM": 6.05,
+    "CGPA": 6
+  },
+  {
+    "NO": 607,
+    "NAME": "Deshpande  Aryan  Kedar",
+    "ENROLLMENT_NO": "BT24MEC069",
+    "CHEM_SEM": 6.23,
+    "PHY_SEM": 5.76,
+    "CGPA": 6
+  },
+  {
+    "NO": 608,
+    "NAME": "Pallikonda Anand Vishal",
+    "ENROLLMENT_NO": "BT24ECE108",
+    "CHEM_SEM": 5.77,
+    "PHY_SEM": 6.24,
+    "CGPA": 6
+  }
+]
