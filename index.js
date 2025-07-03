@@ -8,6 +8,7 @@ const meta = require("./json/meta.json");
 const min = require("./json/min.json");
 const cors = require("cors");
 const express = require("express");
+const serverless = require("serverless-http");
 
 const app = express();
 app.use(cors());
@@ -39,3 +40,5 @@ app.get("/api/min", (req, res) => {
 app.listen(8000, () => {
   console.log("Server Startd");
 });
+module.exports = app;
+module.exports.handler = serverless(app);
