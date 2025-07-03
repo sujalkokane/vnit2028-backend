@@ -6,6 +6,7 @@ const chem = require("./json/chem.json");
 const civil = require("./json/civil.json");
 const meta = require("./json/meta.json");
 const min = require("./json/min.json");
+const all = require("./json/all.json")
 const cors = require("cors");
 const express = require("express");
 const serverless = require("serverless-http");
@@ -36,6 +37,9 @@ app.get("/api/meta", (req, res) => {
 app.get("/api/min", (req, res) => {
   return res.json(min);
 });
+app.get("/api/all",(req,res)=>{
+  return res.json(all);
+})
 
 app.listen(8000, () => {
   console.log("Server Startd");
